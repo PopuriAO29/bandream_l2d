@@ -1,313 +1,9 @@
 {
-    "type": "Live2D Model Setting",
-    "name": "花開く夏月の夜",
-    "model": "../../../../live2d/chara/024_dream_festival_2_rip/ako_fes-2.moc",
-    "textures": [
-        "../../../../live2d/chara/024_dream_festival_2_rip/texture_00.png",
-        "../../../../live2d/chara/024_dream_festival_2_rip/texture_01.png"
-    ],
-    "physics": "../../../../live2d/chara/024_dream_festival_2_rip/ako_fes-2.physics",
-    "expressions": [
-        {
-            "name": "ako_default",
-            "file": "../../../../live2d/chara/024_general_rip/ako_default.exp.json"
-        },
-        {
-            "name": "ako_sad",
-            "file": "../../../../live2d/chara/024_general_rip/ako_sad.exp.json"
-        },
-        {
-            "name": "ako_serious",
-            "file": "../../../../live2d/chara/024_general_rip/ako_serious.exp.json"
-        },
-        {
-            "name": "ako_smile02",
-            "file": "../../../../live2d/chara/024_general_rip/ako_smile02.exp.json"
-        },
-        {
-            "name": "ako_special01",
-            "file": "../../../../live2d/chara/024_general_rip/ako_special01.exp.json"
-        },
-        {
-            "name": "ako_special02",
-            "file": "../../../../live2d/chara/024_general_rip/ako_special02.exp.json"
-        },
-        {
-            "name": "ako_surprised",
-            "file": "../../../../live2d/chara/024_general_rip/ako_surprised.exp.json"
-        },
-        {
-            "name": "ako_worry",
-            "file": "../../../../live2d/chara/024_general_rip/ako_worry.exp.json"
-        },
-        {
-            "name": "angry01",
-            "file": "../../../../live2d/chara/024_general_rip/angry01.exp.json"
-        },
-        {
-            "name": "cry01",
-            "file": "../../../../live2d/chara/024_general_rip/cry01.exp.json"
-        },
-        {
-            "name": "default",
-            "file": "../../../../live2d/chara/024_general_rip/default.exp.json"
-        },
-        {
-            "name": "idle01",
-            "file": "../../../../live2d/chara/024_general_rip/idle01.exp.json"
-        },
-        {
-            "name": "kime01",
-            "file": "../../../../live2d/chara/024_general_rip/kime01.exp.json"
-        },
-        {
-            "name": "sad01",
-            "file": "../../../../live2d/chara/024_general_rip/sad01.exp.json"
-        },
-        {
-            "name": "serious01",
-            "file": "../../../../live2d/chara/024_general_rip/serious01.exp.json"
-        },
-        {
-            "name": "smile01",
-            "file": "../../../../live2d/chara/024_general_rip/smile01.exp.json"
-        },
-        {
-            "name": "smile02",
-            "file": "../../../../live2d/chara/024_general_rip/smile02.exp.json"
-        },
-        {
-            "name": "smile03",
-            "file": "../../../../live2d/chara/024_general_rip/smile03.exp.json"
-        },
-        {
-            "name": "surprised01",
-            "file": "../../../../live2d/chara/024_general_rip/surprised01.exp.json"
-        }
-    ],
+    "model": "../../../..//chara//",
+    "physics": "../../../..//chara//",
     "motions": {
-        "angry": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/angry01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "bye": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/bye01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "chuni": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/024_general_rip/chuni02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "cry": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/cry01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/024_general_rip/cry02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "eeto": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/eeto01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "gattsu": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/gattsu01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "idle": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/idle01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/024_general_rip/idle02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "jaan": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/jaan01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "kime": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/kime01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nf": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/nf01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/024_general_rip/nf02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/024_general_rip/nf03.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/024_general_rip/nf04.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nf_left": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/nf_left01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nf_right": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/nf_right01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nnf": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/nnf01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/024_general_rip/nnf02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/024_general_rip/nnf03.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/024_general_rip/nnf04.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/024_general_rip/nnf05.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nnf_left": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/nnf_left01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nnf_right": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/nnf_right01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "odoodo": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/odoodo01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "sad": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/sad01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "serious": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/serious01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "shame": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/shame01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "smile": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/smile01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/024_general_rip/smile03.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "surprised": [
-            {
-                "file": "../../../../live2d/chara/024_general_rip/surprised01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "gacha": [
-            {
-                "file": "../../../../live2d/chara/024_dream_festival_2_rip/gacha01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
         "tap": [
             {
-                "file": "../../../../live2d/chara/024_general_rip/gattsu01.mtn",
                 "name": "あこはリズムゲームが得意なんだっ！　リズム感ばっちりだよ～",
                 "text": "あこはリズムゲームが得意なんだっ！　リズム感ばっちりだよ～",
                 "sound": "../../../../sound/voice/system_rip/systemStory_024_1.mp3",
@@ -317,7 +13,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile01.mtn",
                 "name": "いつかおねーちゃんみたいなドラムが叩けたらいいなぁ……",
                 "text": "いつかおねーちゃんみたいなドラムが叩けたらいいなぁ……",
                 "sound": "../../../../sound/voice/system_rip/systemStory_024_2.mp3",
@@ -327,7 +22,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/eeto01.mtn",
                 "name": "あこ、楽譜読むの苦手なんだ……どうしたら読めるようになるかな",
                 "text": "あこ、楽譜読むの苦手なんだ……どうしたら読めるようになるかな",
                 "sound": "../../../../sound/voice/system_rip/systemStory_024_3.mp3",
@@ -337,7 +31,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "バンドって最高！　超感動した！",
                 "text": "バンドって最高！　超感動した！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_024_1.mp3",
@@ -347,7 +40,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf04.mtn",
                 "name": "ドラムはね、おねーちゃんがやってるの見て始めたんだ～",
                 "text": "ドラムはね、おねーちゃんがやってるの見て始めたんだ～",
                 "sound": "../../../../sound/voice/system_rip/systemBand_024_2.mp3",
@@ -357,7 +49,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile01.mtn",
                 "name": "ドラムのペダル踏んでると楽しくなってきちゃうんだ～",
                 "text": "ドラムのペダル踏んでると楽しくなってきちゃうんだ～",
                 "sound": "../../../../sound/voice/system_rip/systemBand_024_3.mp3",
@@ -367,7 +58,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "NFOの世界はもう雪景色なんだ！　こっちも雪降らないかなー",
                 "text": "NFOの世界はもう雪景色なんだ！　こっちも雪降らないかなー",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-117.mp3",
@@ -377,7 +67,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "おねーちゃん、おめでと！　一緒にもっとカッコよくなろうね！",
                 "text": "おねーちゃん、おめでと！　一緒にもっとカッコよくなろうね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-104.mp3",
@@ -387,7 +76,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "今年のチョコはダークチョコ。みんなに闇の力をプレゼントだよ！",
                 "text": "今年のチョコはダークチョコ。みんなに闇の力をプレゼントだよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-122.mp3",
@@ -397,7 +85,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "リサ姉、おめでと！　りんりんとケーキ作ってきたんだっ♪",
                 "text": "リサ姉、おめでと！　りんりんとケーキ作ってきたんだっ♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-100.mp3",
@@ -407,7 +94,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "時は来た。我が生誕の日に歓喜の声をあげようぞ！　かんぱーい！",
                 "text": "時は来た。我が生誕の日に歓喜の声をあげようぞ！　かんぱーい！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-097.mp3",
@@ -417,7 +103,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/gattsu01.mtn",
                 "name": "今日は超超カッコいい友希那さんの誕生日！　あこも嬉しいです！",
                 "text": "今日は超超カッコいい友希那さんの誕生日！　あこも嬉しいです！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-098.mp3",
@@ -427,7 +112,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "さあやちゃん、おめでと！　あこの闇の力でお祝いしちゃうよ！",
                 "text": "さあやちゃん、おめでと！　あこの闇の力でお祝いしちゃうよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-102.mp3",
@@ -437,7 +121,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "りんりん、おめでと！　これからもずっと一緒だよ、よろしくね！",
                 "text": "りんりん、おめでと！　これからもずっと一緒だよ、よろしくね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-101.mp3",
@@ -447,7 +130,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "モカちん、おめでと！　闇の力とパンの力で……バーンだよ！",
                 "text": "モカちん、おめでと！　闇の力とパンの力で……バーンだよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-103.mp3",
@@ -457,7 +139,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "凍てつく氷の刃、ダークネスブリザード！　……やっぱり出ないね",
                 "text": "凍てつく氷の刃、ダークネスブリザード！　……やっぱり出ないね",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-109.mp3",
@@ -467,7 +148,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/serious01.mtn",
                 "name": "夏休みの宿題は計画的にか～。よーし、最初の１日で終わらせよっ",
                 "text": "夏休みの宿題は計画的にか～。よーし、最初の１日で終わらせよっ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-110.mp3",
@@ -477,7 +157,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "みんなとプレゼント交換、楽しみだなー♪",
                 "text": "みんなとプレゼント交換、楽しみだなー♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-127.mp3",
@@ -487,7 +166,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "わ、アイス当たったよ！　もう１本もらってこよ～っと♪",
                 "text": "わ、アイス当たったよ！　もう１本もらってこよ～っと♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-111.mp3",
@@ -497,7 +175,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "早くあこのカッコいいをみんなに届けたい！　いっくぞー！",
                 "text": "早くあこのカッコいいをみんなに届けたい！　いっくぞー！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-119.mp3",
@@ -507,7 +184,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "リサ姉の桜餅、美味しいー！　何個でも食べられちゃう！",
                 "text": "リサ姉の桜餅、美味しいー！　何個でも食べられちゃう！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-123.mp3",
@@ -517,7 +193,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "春は目覚めの季節……わらわの真の力も目覚めようぞ！",
                 "text": "春は目覚めの季節……わらわの真の力も目覚めようぞ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-106.mp3",
@@ -527,7 +202,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "あけましておめでとー！　今年もカッコよく決めちゃうぞ～！",
                 "text": "あけましておめでとー！　今年もカッコよく決めちゃうぞ～！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-120.mp3",
@@ -537,7 +211,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "今日は紗夜さんの誕生日！　いーっぱい、お祝いしちゃうぞ～！",
                 "text": "今日は紗夜さんの誕生日！　いーっぱい、お祝いしちゃうぞ～！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-099.mp3",
@@ -547,7 +220,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/serious01.mtn",
                 "name": "大変大変っ！　あこ達の学校がなんか……バーンってなってたっ！",
                 "text": "大変大変っ！　あこ達の学校がなんか……バーンってなってたっ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-125.mp3",
@@ -557,7 +229,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "おねーちゃんがいちご買ってきてくれたんだ！　早く食べた～い♪",
                 "text": "おねーちゃんがいちご買ってきてくれたんだ！　早く食べた～い♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-107.mp3",
@@ -567,7 +238,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/shame01.mtn",
                 "name": "今度あすかとろっかと、お花見に行くんだー！",
                 "text": "今度あすかとろっかと、お花見に行くんだー！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-108.mp3",
@@ -577,7 +247,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "つぐちん、おめでと！　商店街のみんなでまたお出かけしよーね！",
                 "text": "つぐちん、おめでと！　商店街のみんなでまたお出かけしよーね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-105.mp3",
@@ -587,7 +256,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/surprised01.mtn",
                 "name": "あ、あこまだ大掃除してなかったっ！　急いでやらなきゃっ……！",
                 "text": "あ、あこまだ大掃除してなかったっ！　急いでやらなきゃっ……！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-128.mp3",
@@ -597,7 +265,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/shame01.mtn",
                 "name": "お返しはホワイトチョコ！　あこの愛情をたっぷり込めたんだ！",
                 "text": "お返しはホワイトチョコ！　あこの愛情をたっぷり込めたんだ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-124.mp3",
@@ -607,7 +274,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "ついに明日は闇の宴の開演。クックックッ……",
                 "text": "ついに明日は闇の宴の開演。クックックッ……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-118.mp3",
@@ -617,7 +283,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "今日の晩ごはんはキノコごはん！　楽しみだな～♪",
                 "text": "今日の晩ごはんはキノコごはん！　楽しみだな～♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-112.mp3",
@@ -627,7 +292,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile01.mtn",
                 "name": "松ぼっくり拾ったんだ～。おねーちゃんに見せてあげよーっと！",
                 "text": "松ぼっくり拾ったんだ～。おねーちゃんに見せてあげよーっと！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-113.mp3",
@@ -637,7 +301,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "今日は家族でお月見するんだー！　楽しみーっ♪",
                 "text": "今日は家族でお月見するんだー！　楽しみーっ♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-114.mp3",
@@ -647,7 +310,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/gattsu01.mtn",
                 "name": "ジャックオーランタンってカッコいいよね！　闇の眷属って感じ！",
                 "text": "ジャックオーランタンってカッコいいよね！　闇の眷属って感じ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-126.mp3",
@@ -657,7 +319,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "練習が終わったら、りんりんと一緒にホットミルク飲もーっと！",
                 "text": "練習が終わったら、りんりんと一緒にホットミルク飲もーっと！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-115.mp3",
@@ -667,7 +328,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "クックックッ、我が眷属・幻氷の女神が目覚めたか……くしゅっ！",
                 "text": "クックックッ、我が眷属・幻氷の女神が目覚めたか……くしゅっ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-116.mp3",
@@ -677,7 +337,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/surprised01.mtn",
                 "name": "友希那さんに豆を投げるのっ！？　そんなことできませんよ～っ",
                 "text": "友希那さんに豆を投げるのっ！？　そんなことできませんよ～っ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-121.mp3",
@@ -687,7 +346,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "わー！　あこ、すっごく大事にします！",
                 "text": "わー！　あこ、すっごく大事にします！",
                 "sound": "../../../../sound/voice/system_rip/2019BDRE-AK.mp3",
@@ -697,7 +355,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/gattsu01.mtn",
                 "name": "あこはリズムゲームが得意なんだっ！　リズム感ばっちりだよ～",
                 "text": "亚子很擅长打音游！节奏感很好呢~",
                 "sound": "../../../../sound/voice/system_rip/systemStory_024_1.mp3",
@@ -707,7 +364,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile01.mtn",
                 "name": "いつかおねーちゃんみたいなドラムが叩けたらいいなぁ……",
                 "text": "要是有一天，我能和姐姐一样打爵士鼓就好了……",
                 "sound": "../../../../sound/voice/system_rip/systemStory_024_2.mp3",
@@ -717,7 +373,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/eeto01.mtn",
                 "name": "あこ、楽譜読むの苦手なんだ……どうしたら読めるようになるかな",
                 "text": "亚子，不太会看乐谱……要怎么样才能看懂呢",
                 "sound": "../../../../sound/voice/system_rip/systemStory_024_3.mp3",
@@ -727,7 +382,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "バンドって最高！　超感動した！",
                 "text": "乐队最棒啦！我超感动的！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_024_1.mp3",
@@ -737,7 +391,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf04.mtn",
                 "name": "ドラムはね、おねーちゃんがやってるの見て始めたんだ～",
                 "text": "我是看着姐姐打爵士鼓才开始自己打的~",
                 "sound": "../../../../sound/voice/system_rip/systemBand_024_2.mp3",
@@ -747,7 +400,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile01.mtn",
                 "name": "ドラムのペダル踏んでると楽しくなってきちゃうんだ～",
                 "text": "踩着爵士鼓的踏板，心情也变得愉快起来了~",
                 "sound": "../../../../sound/voice/system_rip/systemBand_024_3.mp3",
@@ -757,7 +409,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "NFOの世界はもう雪景色なんだ！　こっちも雪降らないかなー",
                 "text": "NFOの世界はもう雪景色なんだ！　こっちも雪降らないかなー",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-117.mp3",
@@ -767,7 +418,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "おねーちゃん、おめでと！　一緒にもっとカッコよくなろうね！",
                 "text": "おねーちゃん、おめでと！　一緒にもっとカッコよくなろうね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-104.mp3",
@@ -777,7 +427,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "今年のチョコはダークチョコ。みんなに闇の力をプレゼントだよ！",
                 "text": "今年のチョコはダークチョコ。みんなに闇の力をプレゼントだよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-122.mp3",
@@ -787,7 +436,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "リサ姉、おめでと！　りんりんとケーキ作ってきたんだっ♪",
                 "text": "リサ姉、おめでと！　りんりんとケーキ作ってきたんだっ♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-100.mp3",
@@ -797,7 +445,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "時は来た。我が生誕の日に歓喜の声をあげようぞ！　かんぱーい！",
                 "text": "時は来た。我が生誕の日に歓喜の声をあげようぞ！　かんぱーい！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-097.mp3",
@@ -807,7 +454,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/gattsu01.mtn",
                 "name": "今日は超超カッコいい友希那さんの誕生日！　あこも嬉しいです！",
                 "text": "今日は超超カッコいい友希那さんの誕生日！　あこも嬉しいです！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-098.mp3",
@@ -817,7 +463,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "さあやちゃん、おめでと！　あこの闇の力でお祝いしちゃうよ！",
                 "text": "さあやちゃん、おめでと！　あこの闇の力でお祝いしちゃうよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-102.mp3",
@@ -827,7 +472,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "りんりん、おめでと！　これからもずっと一緒だよ、よろしくね！",
                 "text": "りんりん、おめでと！　これからもずっと一緒だよ、よろしくね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-101.mp3",
@@ -837,7 +481,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "モカちん、おめでと！　闇の力とパンの力で……バーンだよ！",
                 "text": "モカちん、おめでと！　闇の力とパンの力で……バーンだよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-103.mp3",
@@ -847,7 +490,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "凍てつく氷の刃、ダークネスブリザード！　……やっぱり出ないね",
                 "text": "凍てつく氷の刃、ダークネスブリザード！　……やっぱり出ないね",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-109.mp3",
@@ -857,7 +499,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/serious01.mtn",
                 "name": "夏休みの宿題は計画的にか～。よーし、最初の１日で終わらせよっ",
                 "text": "夏休みの宿題は計画的にか～。よーし、最初の１日で終わらせよっ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-110.mp3",
@@ -867,7 +508,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "みんなとプレゼント交換、楽しみだなー♪",
                 "text": "みんなとプレゼント交換、楽しみだなー♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-127.mp3",
@@ -877,7 +517,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "わ、アイス当たったよ！　もう１本もらってこよ～っと♪",
                 "text": "わ、アイス当たったよ！　もう１本もらってこよ～っと♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-111.mp3",
@@ -887,7 +526,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "早くあこのカッコいいをみんなに届けたい！　いっくぞー！",
                 "text": "早くあこのカッコいいをみんなに届けたい！　いっくぞー！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-119.mp3",
@@ -897,7 +535,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "リサ姉の桜餅、美味しいー！　何個でも食べられちゃう！",
                 "text": "リサ姉の桜餅、美味しいー！　何個でも食べられちゃう！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-123.mp3",
@@ -907,7 +544,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "春は目覚めの季節……わらわの真の力も目覚めようぞ！",
                 "text": "春は目覚めの季節……わらわの真の力も目覚めようぞ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-106.mp3",
@@ -917,7 +553,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "あけましておめでとー！　今年もカッコよく決めちゃうぞ～！",
                 "text": "あけましておめでとー！　今年もカッコよく決めちゃうぞ～！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-120.mp3",
@@ -927,7 +562,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "今日は紗夜さんの誕生日！　いーっぱい、お祝いしちゃうぞ～！",
                 "text": "今日は紗夜さんの誕生日！　いーっぱい、お祝いしちゃうぞ～！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-099.mp3",
@@ -937,7 +571,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/serious01.mtn",
                 "name": "大変大変っ！　あこ達の学校がなんか……バーンってなってたっ！",
                 "text": "大変大変っ！　あこ達の学校がなんか……バーンってなってたっ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-125.mp3",
@@ -947,7 +580,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "おねーちゃんがいちご買ってきてくれたんだ！　早く食べた～い♪",
                 "text": "おねーちゃんがいちご買ってきてくれたんだ！　早く食べた～い♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-107.mp3",
@@ -957,7 +589,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/shame01.mtn",
                 "name": "今度あすかとろっかと、お花見に行くんだー！",
                 "text": "今度あすかとろっかと、お花見に行くんだー！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-108.mp3",
@@ -967,7 +598,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "つぐちん、おめでと！　商店街のみんなでまたお出かけしよーね！",
                 "text": "つぐちん、おめでと！　商店街のみんなでまたお出かけしよーね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-105.mp3",
@@ -977,7 +607,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/surprised01.mtn",
                 "name": "あ、あこまだ大掃除してなかったっ！　急いでやらなきゃっ……！",
                 "text": "あ、あこまだ大掃除してなかったっ！　急いでやらなきゃっ……！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-128.mp3",
@@ -987,7 +616,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/shame01.mtn",
                 "name": "お返しはホワイトチョコ！　あこの愛情をたっぷり込めたんだ！",
                 "text": "お返しはホワイトチョコ！　あこの愛情をたっぷり込めたんだ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-124.mp3",
@@ -997,7 +625,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "ついに明日は闇の宴の開演。クックックッ……",
                 "text": "ついに明日は闇の宴の開演。クックックッ……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-118.mp3",
@@ -1007,7 +634,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "今日の晩ごはんはキノコごはん！　楽しみだな～♪",
                 "text": "今日の晩ごはんはキノコごはん！　楽しみだな～♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-112.mp3",
@@ -1017,7 +643,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile01.mtn",
                 "name": "松ぼっくり拾ったんだ～。おねーちゃんに見せてあげよーっと！",
                 "text": "松ぼっくり拾ったんだ～。おねーちゃんに見せてあげよーっと！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-113.mp3",
@@ -1027,7 +652,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "今日は家族でお月見するんだー！　楽しみーっ♪",
                 "text": "今日は家族でお月見するんだー！　楽しみーっ♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-114.mp3",
@@ -1037,7 +661,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/gattsu01.mtn",
                 "name": "ジャックオーランタンってカッコいいよね！　闇の眷属って感じ！",
                 "text": "ジャックオーランタンってカッコいいよね！　闇の眷属って感じ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-126.mp3",
@@ -1047,7 +670,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "練習が終わったら、りんりんと一緒にホットミルク飲もーっと！",
                 "text": "練習が終わったら、りんりんと一緒にホットミルク飲もーっと！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-115.mp3",
@@ -1057,7 +679,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "クックックッ、我が眷属・幻氷の女神が目覚めたか……くしゅっ！",
                 "text": "クックックッ、我が眷属・幻氷の女神が目覚めたか……くしゅっ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-116.mp3",
@@ -1067,7 +688,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/surprised01.mtn",
                 "name": "友希那さんに豆を投げるのっ！？　そんなことできませんよ～っ",
                 "text": "友希那さんに豆を投げるのっ！？　そんなことできませんよ～っ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-121.mp3",
@@ -1077,7 +697,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "わー！　あこ、すっごく大事にします！",
                 "text": "わー！　あこ、すっごく大事にします！",
                 "sound": "../../../../sound/voice/system_rip/2019BDRE-AK.mp3",
@@ -1087,7 +706,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/gattsu01.mtn",
                 "name": "あこはリズムゲームが得意なんだっ！　リズム感ばっちりだよ～",
                 "text": "亞子我很擅長節奏遊戲唷！ 我可是節奏感十足的唷～",
                 "sound": "../../../../sound/voice/system_rip/systemStory_024_1.mp3",
@@ -1097,7 +715,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile01.mtn",
                 "name": "いつかおねーちゃんみたいなドラムが叩けたらいいなぁ……",
                 "text": "真希望我打鼓的技術有天能變得像姊姊一樣好……",
                 "sound": "../../../../sound/voice/system_rip/systemStory_024_2.mp3",
@@ -1107,7 +724,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/eeto01.mtn",
                 "name": "あこ、楽譜読むの苦手なんだ……どうしたら読めるようになるかな",
                 "text": "亞子實在是不太會看樂譜呢……要怎樣才能看得懂呢……",
                 "sound": "../../../../sound/voice/system_rip/systemStory_024_3.mp3",
@@ -1117,7 +733,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "バンドって最高！　超感動した！",
                 "text": "樂團真是太棒了！ 超感動的！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_024_1.mp3",
@@ -1127,7 +742,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf04.mtn",
                 "name": "ドラムはね、おねーちゃんがやってるの見て始めたんだ～",
                 "text": "ドラムはね、おねーちゃんがやってるの見て始めたんだ～",
                 "sound": "../../../../sound/voice/system_rip/systemBand_024_2.mp3",
@@ -1137,7 +751,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile01.mtn",
                 "name": "ドラムのペダル踏んでると楽しくなってきちゃうんだ～",
                 "text": "每次打鼓要踏踏板的時候就覺得特別開心呢～",
                 "sound": "../../../../sound/voice/system_rip/systemBand_024_3.mp3",
@@ -1147,7 +760,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "NFOの世界はもう雪景色なんだ！　こっちも雪降らないかなー",
                 "text": "NFOの世界はもう雪景色なんだ！　こっちも雪降らないかなー",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-117.mp3",
@@ -1157,7 +769,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "おねーちゃん、おめでと！　一緒にもっとカッコよくなろうね！",
                 "text": "おねーちゃん、おめでと！　一緒にもっとカッコよくなろうね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-104.mp3",
@@ -1167,7 +778,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "今年のチョコはダークチョコ。みんなに闇の力をプレゼントだよ！",
                 "text": "今年のチョコはダークチョコ。みんなに闇の力をプレゼントだよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-122.mp3",
@@ -1177,7 +787,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "リサ姉、おめでと！　りんりんとケーキ作ってきたんだっ♪",
                 "text": "リサ姉、おめでと！　りんりんとケーキ作ってきたんだっ♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-100.mp3",
@@ -1187,7 +796,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "時は来た。我が生誕の日に歓喜の声をあげようぞ！　かんぱーい！",
                 "text": "時は来た。我が生誕の日に歓喜の声をあげようぞ！　かんぱーい！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-097.mp3",
@@ -1197,7 +805,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/gattsu01.mtn",
                 "name": "今日は超超カッコいい友希那さんの誕生日！　あこも嬉しいです！",
                 "text": "今日は超超カッコいい友希那さんの誕生日！　あこも嬉しいです！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-098.mp3",
@@ -1207,7 +814,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "さあやちゃん、おめでと！　あこの闇の力でお祝いしちゃうよ！",
                 "text": "さあやちゃん、おめでと！　あこの闇の力でお祝いしちゃうよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-102.mp3",
@@ -1217,7 +823,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "りんりん、おめでと！　これからもずっと一緒だよ、よろしくね！",
                 "text": "りんりん、おめでと！　これからもずっと一緒だよ、よろしくね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-101.mp3",
@@ -1227,7 +832,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "モカちん、おめでと！　闇の力とパンの力で……バーンだよ！",
                 "text": "モカちん、おめでと！　闇の力とパンの力で……バーンだよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-103.mp3",
@@ -1237,7 +841,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "凍てつく氷の刃、ダークネスブリザード！　……やっぱり出ないね",
                 "text": "凍てつく氷の刃、ダークネスブリザード！　……やっぱり出ないね",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-109.mp3",
@@ -1247,7 +850,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/serious01.mtn",
                 "name": "夏休みの宿題は計画的にか～。よーし、最初の１日で終わらせよっ",
                 "text": "夏休みの宿題は計画的にか～。よーし、最初の１日で終わらせよっ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-110.mp3",
@@ -1257,7 +859,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "みんなとプレゼント交換、楽しみだなー♪",
                 "text": "みんなとプレゼント交換、楽しみだなー♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-127.mp3",
@@ -1267,7 +868,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "わ、アイス当たったよ！　もう１本もらってこよ～っと♪",
                 "text": "わ、アイス当たったよ！　もう１本もらってこよ～っと♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-111.mp3",
@@ -1277,7 +877,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "早くあこのカッコいいをみんなに届けたい！　いっくぞー！",
                 "text": "早くあこのカッコいいをみんなに届けたい！　いっくぞー！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-119.mp3",
@@ -1287,7 +886,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "リサ姉の桜餅、美味しいー！　何個でも食べられちゃう！",
                 "text": "リサ姉の桜餅、美味しいー！　何個でも食べられちゃう！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-123.mp3",
@@ -1297,7 +895,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "春は目覚めの季節……わらわの真の力も目覚めようぞ！",
                 "text": "春は目覚めの季節……わらわの真の力も目覚めようぞ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-106.mp3",
@@ -1307,7 +904,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "あけましておめでとー！　今年もカッコよく決めちゃうぞ～！",
                 "text": "あけましておめでとー！　今年もカッコよく決めちゃうぞ～！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-120.mp3",
@@ -1317,7 +913,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "今日は紗夜さんの誕生日！　いーっぱい、お祝いしちゃうぞ～！",
                 "text": "今日は紗夜さんの誕生日！　いーっぱい、お祝いしちゃうぞ～！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-099.mp3",
@@ -1327,7 +922,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/serious01.mtn",
                 "name": "大変大変っ！　あこ達の学校がなんか……バーンってなってたっ！",
                 "text": "大変大変っ！　あこ達の学校がなんか……バーンってなってたっ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-125.mp3",
@@ -1337,7 +931,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "おねーちゃんがいちご買ってきてくれたんだ！　早く食べた～い♪",
                 "text": "おねーちゃんがいちご買ってきてくれたんだ！　早く食べた～い♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-107.mp3",
@@ -1347,7 +940,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/shame01.mtn",
                 "name": "今度あすかとろっかと、お花見に行くんだー！",
                 "text": "今度あすかとろっかと、お花見に行くんだー！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-108.mp3",
@@ -1357,7 +949,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "つぐちん、おめでと！　商店街のみんなでまたお出かけしよーね！",
                 "text": "つぐちん、おめでと！　商店街のみんなでまたお出かけしよーね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-105.mp3",
@@ -1367,7 +958,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/surprised01.mtn",
                 "name": "あ、あこまだ大掃除してなかったっ！　急いでやらなきゃっ……！",
                 "text": "あ、あこまだ大掃除してなかったっ！　急いでやらなきゃっ……！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-128.mp3",
@@ -1377,7 +967,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/shame01.mtn",
                 "name": "お返しはホワイトチョコ！　あこの愛情をたっぷり込めたんだ！",
                 "text": "お返しはホワイトチョコ！　あこの愛情をたっぷり込めたんだ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-124.mp3",
@@ -1387,7 +976,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "ついに明日は闇の宴の開演。クックックッ……",
                 "text": "ついに明日は闇の宴の開演。クックックッ……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-118.mp3",
@@ -1397,7 +985,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "今日の晩ごはんはキノコごはん！　楽しみだな～♪",
                 "text": "今日の晩ごはんはキノコごはん！　楽しみだな～♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-112.mp3",
@@ -1407,7 +994,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile01.mtn",
                 "name": "松ぼっくり拾ったんだ～。おねーちゃんに見せてあげよーっと！",
                 "text": "松ぼっくり拾ったんだ～。おねーちゃんに見せてあげよーっと！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-113.mp3",
@@ -1417,7 +1003,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "今日は家族でお月見するんだー！　楽しみーっ♪",
                 "text": "今日は家族でお月見するんだー！　楽しみーっ♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-114.mp3",
@@ -1427,7 +1012,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/gattsu01.mtn",
                 "name": "ジャックオーランタンってカッコいいよね！　闇の眷属って感じ！",
                 "text": "ジャックオーランタンってカッコいいよね！　闇の眷属って感じ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-126.mp3",
@@ -1437,7 +1021,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "練習が終わったら、りんりんと一緒にホットミルク飲もーっと！",
                 "text": "練習が終わったら、りんりんと一緒にホットミルク飲もーっと！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-115.mp3",
@@ -1447,7 +1030,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "クックックッ、我が眷属・幻氷の女神が目覚めたか……くしゅっ！",
                 "text": "クックックッ、我が眷属・幻氷の女神が目覚めたか……くしゅっ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-116.mp3",
@@ -1457,7 +1039,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/surprised01.mtn",
                 "name": "友希那さんに豆を投げるのっ！？　そんなことできませんよ～っ",
                 "text": "友希那さんに豆を投げるのっ！？　そんなことできませんよ～っ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-121.mp3",
@@ -1467,7 +1048,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "わー！　あこ、すっごく大事にします！",
                 "text": "わー！ あこ、すっごく大事にします！",
                 "sound": "../../../../sound/voice/system_rip/2019BDRE-AK.mp3",
@@ -1477,7 +1057,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/gattsu01.mtn",
                 "name": "あこはリズムゲームが得意なんだっ！　リズム感ばっちりだよ～",
                 "text": "I'm a pro at rhythm games! Rhythm is totally my thing~.",
                 "sound": "../../../../sound/voice/system_rip/systemStory_024_1.mp3",
@@ -1487,7 +1066,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile01.mtn",
                 "name": "いつかおねーちゃんみたいなドラムが叩けたらいいなぁ……",
                 "text": "I hope I can play drums like my sister someday...",
                 "sound": "../../../../sound/voice/system_rip/systemStory_024_2.mp3",
@@ -1497,7 +1075,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/eeto01.mtn",
                 "name": "あこ、楽譜読むの苦手なんだ……どうしたら読めるようになるかな",
                 "text": "I'm really bad at reading music... How can I learn how to read it?",
                 "sound": "../../../../sound/voice/system_rip/systemStory_024_3.mp3",
@@ -1507,7 +1084,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "バンドって最高！　超感動した！",
                 "text": "I love being in a band! It's the best!",
                 "sound": "../../../../sound/voice/system_rip/systemBand_024_1.mp3",
@@ -1517,7 +1093,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf04.mtn",
                 "name": "ドラムはね、おねーちゃんがやってるの見て始めたんだ～",
                 "text": "I started playing drums because of my sister~.",
                 "sound": "../../../../sound/voice/system_rip/systemBand_024_2.mp3",
@@ -1527,7 +1102,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile01.mtn",
                 "name": "ドラムのペダル踏んでると楽しくなってきちゃうんだ～",
                 "text": "Stomping that drum pedal gets my heart pumping~!",
                 "sound": "../../../../sound/voice/system_rip/systemBand_024_3.mp3",
@@ -1537,7 +1111,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "NFOの世界はもう雪景色なんだ！　こっちも雪降らないかなー",
                 "text": "NFOの世界はもう雪景色なんだ！　こっちも雪降らないかなー",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-117.mp3",
@@ -1547,7 +1120,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "おねーちゃん、おめでと！　一緒にもっとカッコよくなろうね！",
                 "text": "おねーちゃん、おめでと！　一緒にもっとカッコよくなろうね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-104.mp3",
@@ -1557,7 +1129,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "今年のチョコはダークチョコ。みんなに闇の力をプレゼントだよ！",
                 "text": "今年のチョコはダークチョコ。みんなに闇の力をプレゼントだよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-122.mp3",
@@ -1567,7 +1138,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "リサ姉、おめでと！　りんりんとケーキ作ってきたんだっ♪",
                 "text": "リサ姉、おめでと！　りんりんとケーキ作ってきたんだっ♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-100.mp3",
@@ -1577,7 +1147,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "時は来た。我が生誕の日に歓喜の声をあげようぞ！　かんぱーい！",
                 "text": "時は来た。我が生誕の日に歓喜の声をあげようぞ！　かんぱーい！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-097.mp3",
@@ -1587,7 +1156,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/gattsu01.mtn",
                 "name": "今日は超超カッコいい友希那さんの誕生日！　あこも嬉しいです！",
                 "text": "今日は超超カッコいい友希那さんの誕生日！　あこも嬉しいです！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-098.mp3",
@@ -1597,7 +1165,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "さあやちゃん、おめでと！　あこの闇の力でお祝いしちゃうよ！",
                 "text": "さあやちゃん、おめでと！　あこの闇の力でお祝いしちゃうよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-102.mp3",
@@ -1607,7 +1174,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "りんりん、おめでと！　これからもずっと一緒だよ、よろしくね！",
                 "text": "りんりん、おめでと！　これからもずっと一緒だよ、よろしくね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-101.mp3",
@@ -1617,7 +1183,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "モカちん、おめでと！　闇の力とパンの力で……バーンだよ！",
                 "text": "モカちん、おめでと！　闇の力とパンの力で……バーンだよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-103.mp3",
@@ -1627,7 +1192,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "凍てつく氷の刃、ダークネスブリザード！　……やっぱり出ないね",
                 "text": "凍てつく氷の刃、ダークネスブリザード！　……やっぱり出ないね",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-109.mp3",
@@ -1637,7 +1201,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/serious01.mtn",
                 "name": "夏休みの宿題は計画的にか～。よーし、最初の１日で終わらせよっ",
                 "text": "夏休みの宿題は計画的にか～。よーし、最初の１日で終わらせよっ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-110.mp3",
@@ -1647,7 +1210,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "みんなとプレゼント交換、楽しみだなー♪",
                 "text": "みんなとプレゼント交換、楽しみだなー♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-127.mp3",
@@ -1657,7 +1219,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "わ、アイス当たったよ！　もう１本もらってこよ～っと♪",
                 "text": "わ、アイス当たったよ！　もう１本もらってこよ～っと♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-111.mp3",
@@ -1667,7 +1228,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "早くあこのカッコいいをみんなに届けたい！　いっくぞー！",
                 "text": "早くあこのカッコいいをみんなに届けたい！　いっくぞー！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-119.mp3",
@@ -1677,7 +1237,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "リサ姉の桜餅、美味しいー！　何個でも食べられちゃう！",
                 "text": "リサ姉の桜餅、美味しいー！　何個でも食べられちゃう！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-123.mp3",
@@ -1687,7 +1246,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "春は目覚めの季節……わらわの真の力も目覚めようぞ！",
                 "text": "春は目覚めの季節……わらわの真の力も目覚めようぞ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-106.mp3",
@@ -1697,7 +1255,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "あけましておめでとー！　今年もカッコよく決めちゃうぞ～！",
                 "text": "あけましておめでとー！　今年もカッコよく決めちゃうぞ～！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-120.mp3",
@@ -1707,7 +1264,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "今日は紗夜さんの誕生日！　いーっぱい、お祝いしちゃうぞ～！",
                 "text": "今日は紗夜さんの誕生日！　いーっぱい、お祝いしちゃうぞ～！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-099.mp3",
@@ -1717,7 +1273,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/serious01.mtn",
                 "name": "大変大変っ！　あこ達の学校がなんか……バーンってなってたっ！",
                 "text": "大変大変っ！　あこ達の学校がなんか……バーンってなってたっ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-125.mp3",
@@ -1727,7 +1282,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "おねーちゃんがいちご買ってきてくれたんだ！　早く食べた～い♪",
                 "text": "おねーちゃんがいちご買ってきてくれたんだ！　早く食べた～い♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-107.mp3",
@@ -1737,7 +1291,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/shame01.mtn",
                 "name": "今度あすかとろっかと、お花見に行くんだー！",
                 "text": "今度あすかとろっかと、お花見に行くんだー！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-108.mp3",
@@ -1747,7 +1300,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "つぐちん、おめでと！　商店街のみんなでまたお出かけしよーね！",
                 "text": "つぐちん、おめでと！　商店街のみんなでまたお出かけしよーね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-105.mp3",
@@ -1757,7 +1309,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/surprised01.mtn",
                 "name": "あ、あこまだ大掃除してなかったっ！　急いでやらなきゃっ……！",
                 "text": "あ、あこまだ大掃除してなかったっ！　急いでやらなきゃっ……！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-128.mp3",
@@ -1767,7 +1318,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/shame01.mtn",
                 "name": "お返しはホワイトチョコ！　あこの愛情をたっぷり込めたんだ！",
                 "text": "お返しはホワイトチョコ！　あこの愛情をたっぷり込めたんだ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-124.mp3",
@@ -1777,7 +1327,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "ついに明日は闇の宴の開演。クックックッ……",
                 "text": "ついに明日は闇の宴の開演。クックックッ……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-118.mp3",
@@ -1787,7 +1336,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "今日の晩ごはんはキノコごはん！　楽しみだな～♪",
                 "text": "今日の晩ごはんはキノコごはん！　楽しみだな～♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-112.mp3",
@@ -1797,7 +1345,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile01.mtn",
                 "name": "松ぼっくり拾ったんだ～。おねーちゃんに見せてあげよーっと！",
                 "text": "松ぼっくり拾ったんだ～。おねーちゃんに見せてあげよーっと！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-113.mp3",
@@ -1807,7 +1354,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "今日は家族でお月見するんだー！　楽しみーっ♪",
                 "text": "今日は家族でお月見するんだー！　楽しみーっ♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-114.mp3",
@@ -1817,7 +1363,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/gattsu01.mtn",
                 "name": "ジャックオーランタンってカッコいいよね！　闇の眷属って感じ！",
                 "text": "ジャックオーランタンってカッコいいよね！　闇の眷属って感じ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-126.mp3",
@@ -1827,7 +1372,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "練習が終わったら、りんりんと一緒にホットミルク飲もーっと！",
                 "text": "練習が終わったら、りんりんと一緒にホットミルク飲もーっと！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-115.mp3",
@@ -1837,7 +1381,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/chuni01.mtn",
                 "name": "クックックッ、我が眷属・幻氷の女神が目覚めたか……くしゅっ！",
                 "text": "クックックッ、我が眷属・幻氷の女神が目覚めたか……くしゅっ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-116.mp3",
@@ -1847,7 +1390,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/surprised01.mtn",
                 "name": "友希那さんに豆を投げるのっ！？　そんなことできませんよ～っ",
                 "text": "友希那さんに豆を投げるのっ！？　そんなことできませんよ～っ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-121.mp3",
@@ -1857,7 +1399,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "わー！　あこ、すっごく大事にします！",
                 "text": "Yay~! I'll take really, really good care of it!",
                 "sound": "../../../../sound/voice/system_rip/2019BDRE-AK.mp3",
@@ -1869,7 +1410,6 @@
         ],
         "start": [
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "あっ、きたきた！　今日も練習よろしくですっ！",
                 "text": "あっ、きたきた！　今日も練習よろしくですっ！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_024_1.mp3",
@@ -1879,7 +1419,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile01.mtn",
                 "name": "今日も張り切っていくぞー！",
                 "text": "今日も張り切っていくぞー！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_024_2.mp3",
@@ -1889,7 +1428,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "今日も１日一緒に頑張ろうねー！",
                 "text": "今日も１日一緒に頑張ろうねー！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_024_3.mp3",
@@ -1899,7 +1437,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "あっ、きたきた！　今日も練習よろしくですっ！",
                 "text": "啊，来了来了！今天的练习也请多关照了！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_024_1.mp3",
@@ -1909,7 +1446,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile01.mtn",
                 "name": "今日も張り切っていくぞー！",
                 "text": "今天也鼓足干劲上吧！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_024_2.mp3",
@@ -1919,7 +1455,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "今日も１日一緒に頑張ろうねー！",
                 "text": "今天一天也一起加油吧！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_024_3.mp3",
@@ -1929,7 +1464,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "あっ、きたきた！　今日も練習よろしくですっ！",
                 "text": "啊，來了來了！今天的練習也請多多指教囉！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_024_1.mp3",
@@ -1939,7 +1473,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile01.mtn",
                 "name": "今日も張り切っていくぞー！",
                 "text": "今天也盡全力加油吧～！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_024_2.mp3",
@@ -1949,7 +1482,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "今日も１日一緒に頑張ろうねー！",
                 "text": "今天一天也加油吧～！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_024_3.mp3",
@@ -1959,7 +1491,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/nf05.mtn",
                 "name": "あっ、きたきた！　今日も練習よろしくですっ！",
                 "text": "Ah, you came! Let's practice!",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_024_1.mp3",
@@ -1969,7 +1500,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile01.mtn",
                 "name": "今日も張り切っていくぞー！",
                 "text": "We've got this!",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_024_2.mp3",
@@ -1979,7 +1509,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/024_general_rip/smile02.mtn",
                 "name": "今日も１日一緒に頑張ろうねー！",
                 "text": "Let's rock it out!",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_024_3.mp3",

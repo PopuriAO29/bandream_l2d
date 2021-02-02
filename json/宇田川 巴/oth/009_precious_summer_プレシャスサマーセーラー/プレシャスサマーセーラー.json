@@ -1,271 +1,9 @@
 {
-    "type": "Live2D Model Setting",
-    "name": "プレシャスサマーセーラー",
-    "model": "../../../../live2d/chara/009_precious_summer_rip/tomoe_marine_t05.moc",
-    "textures": [
-        "../../../../live2d/chara/009_precious_summer_rip/texture_00.png"
-    ],
-    "physics": "../../../../live2d/chara/009_precious_summer_rip/tomoe_marine.physics",
-    "expressions": [
-        {
-            "name": "angry01",
-            "file": "../../../../live2d/chara/009_general_rip/angry01.exp.json"
-        },
-        {
-            "name": "cry01",
-            "file": "../../../../live2d/chara/009_general_rip/cry01.exp.json"
-        },
-        {
-            "name": "default",
-            "file": "../../../../live2d/chara/009_general_rip/default.exp.json"
-        },
-        {
-            "name": "kime01",
-            "file": "../../../../live2d/chara/009_general_rip/kime01.exp.json"
-        },
-        {
-            "name": "kime02",
-            "file": "../../../../live2d/chara/009_general_rip/kime02.exp.json"
-        },
-        {
-            "name": "sad01",
-            "file": "../../../../live2d/chara/009_general_rip/sad01.exp.json"
-        },
-        {
-            "name": "serious01",
-            "file": "../../../../live2d/chara/009_general_rip/serious01.exp.json"
-        },
-        {
-            "name": "simizimi01",
-            "file": "../../../../live2d/chara/009_general_rip/simizimi01.exp.json"
-        },
-        {
-            "name": "smile01",
-            "file": "../../../../live2d/chara/009_general_rip/smile01.exp.json"
-        },
-        {
-            "name": "smile02",
-            "file": "../../../../live2d/chara/009_general_rip/smile02.exp.json"
-        },
-        {
-            "name": "smile03",
-            "file": "../../../../live2d/chara/009_general_rip/smile03.exp.json"
-        }
-    ],
+    "model": "../../../..//chara//",
+    "physics": "../../../..//chara//",
     "motions": {
-        "angry": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/angry01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/009_general_rip/angry02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "bye": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/bye01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "cry": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/cry01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "fighting": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/fighting01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/009_general_rip/fighting02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "idle": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/idle01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/009_general_rip/idle02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "kime": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/kime01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/009_general_rip/kime02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nf": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/nf01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/009_general_rip/nf02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/009_general_rip/nf04.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nf_left": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/nf_left01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nf_right": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/nf_right01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nnf": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/nnf01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/009_general_rip/nnf02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/009_general_rip/nnf03.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/009_general_rip/nnf04.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/009_general_rip/nnf05.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nnf_left": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/nnf_left01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nnf_right": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/nnf_right01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "sad": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/sad01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "serious": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/serious01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "shame": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/shame01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "simizimi": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/simizimi01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "smile": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/009_general_rip/smile03.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "sneeze": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/sneeze01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "surprised": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/surprised01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "wink": [
-            {
-                "file": "../../../../live2d/chara/009_general_rip/wink01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
         "tap": [
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "さ、早く先へ進もうぜ",
                 "text": "さ、早く先へ進もうぜ",
                 "sound": "../../../../sound/voice/system_rip/systemStory_009_1.mp3",
@@ -275,7 +13,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "次が待ちきれないな〜早くいこーぜ！",
                 "text": "次が待ちきれないな〜早くいこーぜ！",
                 "sound": "../../../../sound/voice/system_rip/systemStory_009_2.mp3",
@@ -285,7 +22,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/simizimi01.mtn",
                 "name": "ふう……あと少しだな",
                 "text": "ふう……あと少しだな",
                 "sound": "../../../../sound/voice/system_rip/systemStory_009_3.mp3",
@@ -295,7 +31,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "スティック握ると、気合が入るんだ！",
                 "text": "スティック握ると、気合が入るんだ！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_009_1.mp3",
@@ -305,7 +40,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/kime01.mtn",
                 "name": "最高の音楽を演奏してみせる！",
                 "text": "最高の音楽を演奏してみせる！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_009_2.mp3",
@@ -315,7 +49,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "早く演奏したいなあ〜！",
                 "text": "早く演奏したいなあ〜！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_009_3.mp3",
@@ -325,7 +58,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "あけましておめでとう。今年も神社で太鼓を叩くぞ～。ソイヤー！",
                 "text": "あけましておめでとう。今年も神社で太鼓を叩くぞ～。ソイヤー！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-120.mp3",
@@ -335,7 +67,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "沙綾、おめでと！　今度、雑貨屋にヘアアクセ見に行こうぜ！",
                 "text": "沙綾、おめでと！　今度、雑貨屋にヘアアクセ見に行こうぜ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-102.mp3",
@@ -345,7 +76,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "用意が大変だけど、ひな人形を飾るのはやっぱ楽しいよ",
                 "text": "用意が大変だけど、ひな人形を飾るのはやっぱ楽しいよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-123.mp3",
@@ -355,7 +85,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "和太鼓は今年で卒業するつもりなんだ……なーんてな♪",
                 "text": "和太鼓は今年で卒業するつもりなんだ……なーんてな♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-125.mp3",
@@ -365,7 +94,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "やっぱり冬はラーメン、だよな。みんな、ラーメン屋に行こうぜ！",
                 "text": "やっぱり冬はラーメン、だよな。みんな、ラーメン屋に行こうぜ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-115.mp3",
@@ -375,7 +103,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/kime01.mtn",
                 "name": "よし、お返ししてくる！　今日中にみんなに配り切るぞ～！",
                 "text": "よし、お返ししてくる！　今日中にみんなに配り切るぞ～！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-124.mp3",
@@ -385,7 +112,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "今年はみんなでスノボに行きたいな～。……今度、誘ってみるか",
                 "text": "今年はみんなでスノボに行きたいな～。……今度、誘ってみるか",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-116.mp3",
@@ -395,7 +121,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "雪が降るとテンション上がるよな！　積もったら、もう最高だよ！",
                 "text": "雪が降るとテンション上がるよな！　積もったら、もう最高だよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-117.mp3",
@@ -405,7 +130,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "つぐ、おめでと。いつもアタシ達をフォローしてくれてありがとな",
                 "text": "つぐ、おめでと。いつもアタシ達をフォローしてくれてありがとな",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-101.mp3",
@@ -415,7 +139,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "明日は本番か～。今から演奏したくてウズウズするよ！",
                 "text": "明日は本番か～。今から演奏したくてウズウズするよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-118.mp3",
@@ -425,7 +148,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "みんなに祝われるのって、やっぱ嬉しいもんだな。サンキュー！",
                 "text": "みんなに祝われるのって、やっぱ嬉しいもんだな。サンキュー！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-097.mp3",
@@ -435,7 +157,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "あこ、おめでとう！　あこのカッコいいを貫いていってくれよ！",
                 "text": "あこ、おめでとう！　あこのカッコいいを貫いていってくれよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-105.mp3",
@@ -445,7 +166,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "どれだけ年が変わっても、アタシ達はいつも通りだ。ずっとな♪",
                 "text": "どれだけ年が変わっても、アタシ達はいつも通りだ。ずっとな♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-128.mp3",
@@ -455,7 +175,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "モカ、おめでとう！　モカはほんとカッコいいよ！",
                 "text": "モカ、おめでとう！　モカはほんとカッコいいよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-099.mp3",
@@ -465,7 +184,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "ひまりがいてくれるとホントに心強いよ。誕生日おめでとう！",
                 "text": "ひまりがいてくれるとホントに心強いよ。誕生日おめでとう！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-100.mp3",
@@ -475,7 +193,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile03.mtn",
                 "name": "ひまり、今年はどんな衣装を勧めてくれるんだろ……？",
                 "text": "ひまり、今年はどんな衣装を勧めてくれるんだろ……？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-126.mp3",
@@ -485,7 +202,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile03.mtn",
                 "name": "春は眠気との戦いだよな～。日差しが気持ちよくて……ふぁ……",
                 "text": "春は眠気との戦いだよな～。日差しが気持ちよくて……ふぁ……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-106.mp3",
@@ -495,7 +211,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "登校中に桜を見られるっていいよな。なんかテンション上がるよ！",
                 "text": "登校中に桜を見られるっていいよな。なんかテンション上がるよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-107.mp3",
@@ -505,7 +220,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "この時期の夕焼けってホントキレイだよな。つい見入っちゃうよ",
                 "text": "この時期の夕焼けってホントキレイだよな。つい見入っちゃうよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-112.mp3",
@@ -515,7 +229,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "秋の京都っていう写真集を見たんだ。すっごくいい雰囲気だったよ",
                 "text": "秋の京都っていう写真集を見たんだ。すっごくいい雰囲気だったよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-113.mp3",
@@ -525,7 +238,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "今年は春物の服、新しく買うか。ひまり、一緒に来てくれよ",
                 "text": "今年は春物の服、新しく買うか。ひまり、一緒に来てくれよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-108.mp3",
@@ -535,7 +247,15 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
+                "name": "ついにライブだな。いつも通りカッコよく決めようぜ！",
+                "text": "ついにライブだな。いつも通りカッコよく決めようぜ！",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-119.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "ja"
+            },
+            {
                 "name": "蘭、おめでとう！　蘭が幼馴染で、アタシは誇らしいよ",
                 "text": "蘭、おめでとう！　蘭が幼馴染で、アタシは誇らしいよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-098.mp3",
@@ -545,7 +265,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "赤とんぼが校庭を飛んでたんだ。なんか、秋！　って感じがしたよ",
                 "text": "赤とんぼが校庭を飛んでたんだ。なんか、秋！　って感じがしたよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-114.mp3",
@@ -555,7 +274,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "瀬田先輩、おめでとうございます！　また乗馬に誘ってください！",
                 "text": "瀬田先輩、おめでとうございます！　また乗馬に誘ってください！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-103.mp3",
@@ -565,7 +283,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/kime01.mtn",
                 "name": "鬼役はアタシだ！　さあ、どこからでもかかってこい！",
                 "text": "鬼役はアタシだ！　さあ、どこからでもかかってこい！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-121.mp3",
@@ -575,7 +292,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile03.mtn",
                 "name": "冷房の温度下げすぎだって、蘭とひまりにまた怒られちゃったよ",
                 "text": "冷房の温度下げすぎだって、蘭とひまりにまた怒られちゃったよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-109.mp3",
@@ -585,7 +301,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "夏と言えば祭りだよな！　今年も思いっきり太鼓叩くぞ～！",
                 "text": "夏と言えば祭りだよな！　今年も思いっきり太鼓叩くぞ～！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-110.mp3",
@@ -595,7 +310,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "打ち上げ花火のかけ声って言えば、やっぱ『たーまや！』だよな！",
                 "text": "打ち上げ花火のかけ声って言えば、やっぱ『たーまや！』だよな！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-111.mp3",
@@ -605,7 +319,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/sad01.mtn",
                 "name": "チョコがカバンに入り切らない……残りは抱えて、帰るか……",
                 "text": "チョコがカバンに入り切らない……残りは抱えて、帰るか……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-122.mp3",
@@ -615,7 +328,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "今年はどんな飾り付けにするかな～。じゃ、つぐの家行ってくる！",
                 "text": "今年はどんな飾り付けにするかな～。じゃ、つぐの家行ってくる！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-127.mp3",
@@ -625,7 +337,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "はぐみ、おめでと！　今度ソフトボールの試合、応援に行くよ！",
                 "text": "はぐみ、おめでと！　今度ソフトボールの試合、応援に行くよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-104.mp3",
@@ -635,7 +346,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "サンキュー！　大事にするよ！",
                 "text": "サンキュー！　大事にするよ！",
                 "sound": "../../../../sound/voice/system_rip/2019BDRE-TM.mp3",
@@ -645,7 +355,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "さ、早く先へ進もうぜ",
                 "text": "那么，继续前进吧",
                 "sound": "../../../../sound/voice/system_rip/systemStory_009_1.mp3",
@@ -655,7 +364,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "次が待ちきれないな〜早くいこーぜ！",
                 "text": "已经等不及下一曲了~快开始吧！",
                 "sound": "../../../../sound/voice/system_rip/systemStory_009_2.mp3",
@@ -665,7 +373,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/simizimi01.mtn",
                 "name": "ふう……あと少しだな",
                 "text": "呼……还差一点点",
                 "sound": "../../../../sound/voice/system_rip/systemStory_009_3.mp3",
@@ -675,7 +382,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "スティック握ると、気合が入るんだ！",
                 "text": "一握住爵士鼓的鼓棒，就会干劲十足！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_009_1.mp3",
@@ -685,7 +391,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/kime01.mtn",
                 "name": "最高の音楽を演奏してみせる！",
                 "text": "我会演奏出最棒的音乐的！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_009_2.mp3",
@@ -695,7 +400,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "早く演奏したいなあ〜！",
                 "text": "真想赶紧开始演奏啊~！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_009_3.mp3",
@@ -705,7 +409,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "あけましておめでとう。今年も神社で太鼓を叩くぞ～。ソイヤー！",
                 "text": "あけましておめでとう。今年も神社で太鼓を叩くぞ～。ソイヤー！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-120.mp3",
@@ -715,7 +418,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "沙綾、おめでと！　今度、雑貨屋にヘアアクセ見に行こうぜ！",
                 "text": "沙綾、おめでと！　今度、雑貨屋にヘアアクセ見に行こうぜ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-102.mp3",
@@ -725,7 +427,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "用意が大変だけど、ひな人形を飾るのはやっぱ楽しいよ",
                 "text": "用意が大変だけど、ひな人形を飾るのはやっぱ楽しいよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-123.mp3",
@@ -735,7 +436,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "和太鼓は今年で卒業するつもりなんだ……なーんてな♪",
                 "text": "和太鼓は今年で卒業するつもりなんだ……なーんてな♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-125.mp3",
@@ -745,7 +445,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "やっぱり冬はラーメン、だよな。みんな、ラーメン屋に行こうぜ！",
                 "text": "やっぱり冬はラーメン、だよな。みんな、ラーメン屋に行こうぜ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-115.mp3",
@@ -755,7 +454,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/kime01.mtn",
                 "name": "よし、お返ししてくる！　今日中にみんなに配り切るぞ～！",
                 "text": "よし、お返ししてくる！　今日中にみんなに配り切るぞ～！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-124.mp3",
@@ -765,7 +463,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "今年はみんなでスノボに行きたいな～。……今度、誘ってみるか",
                 "text": "今年はみんなでスノボに行きたいな～。……今度、誘ってみるか",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-116.mp3",
@@ -775,7 +472,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "雪が降るとテンション上がるよな！　積もったら、もう最高だよ！",
                 "text": "雪が降るとテンション上がるよな！　積もったら、もう最高だよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-117.mp3",
@@ -785,7 +481,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "つぐ、おめでと。いつもアタシ達をフォローしてくれてありがとな",
                 "text": "つぐ、おめでと。いつもアタシ達をフォローしてくれてありがとな",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-101.mp3",
@@ -795,7 +490,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "明日は本番か～。今から演奏したくてウズウズするよ！",
                 "text": "明日は本番か～。今から演奏したくてウズウズするよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-118.mp3",
@@ -805,7 +499,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "みんなに祝われるのって、やっぱ嬉しいもんだな。サンキュー！",
                 "text": "みんなに祝われるのって、やっぱ嬉しいもんだな。サンキュー！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-097.mp3",
@@ -815,7 +508,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "あこ、おめでとう！　あこのカッコいいを貫いていってくれよ！",
                 "text": "あこ、おめでとう！　あこのカッコいいを貫いていってくれよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-105.mp3",
@@ -825,7 +517,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "どれだけ年が変わっても、アタシ達はいつも通りだ。ずっとな♪",
                 "text": "どれだけ年が変わっても、アタシ達はいつも通りだ。ずっとな♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-128.mp3",
@@ -835,7 +526,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "モカ、おめでとう！　モカはほんとカッコいいよ！",
                 "text": "モカ、おめでとう！　モカはほんとカッコいいよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-099.mp3",
@@ -845,7 +535,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "ひまりがいてくれるとホントに心強いよ。誕生日おめでとう！",
                 "text": "ひまりがいてくれるとホントに心強いよ。誕生日おめでとう！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-100.mp3",
@@ -855,7 +544,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile03.mtn",
                 "name": "ひまり、今年はどんな衣装を勧めてくれるんだろ……？",
                 "text": "ひまり、今年はどんな衣装を勧めてくれるんだろ……？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-126.mp3",
@@ -865,7 +553,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile03.mtn",
                 "name": "春は眠気との戦いだよな～。日差しが気持ちよくて……ふぁ……",
                 "text": "春は眠気との戦いだよな～。日差しが気持ちよくて……ふぁ……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-106.mp3",
@@ -875,7 +562,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "登校中に桜を見られるっていいよな。なんかテンション上がるよ！",
                 "text": "登校中に桜を見られるっていいよな。なんかテンション上がるよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-107.mp3",
@@ -885,7 +571,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "この時期の夕焼けってホントキレイだよな。つい見入っちゃうよ",
                 "text": "この時期の夕焼けってホントキレイだよな。つい見入っちゃうよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-112.mp3",
@@ -895,7 +580,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "秋の京都っていう写真集を見たんだ。すっごくいい雰囲気だったよ",
                 "text": "秋の京都っていう写真集を見たんだ。すっごくいい雰囲気だったよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-113.mp3",
@@ -905,7 +589,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "今年は春物の服、新しく買うか。ひまり、一緒に来てくれよ",
                 "text": "今年は春物の服、新しく買うか。ひまり、一緒に来てくれよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-108.mp3",
@@ -915,7 +598,15 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
+                "name": "ついにライブだな。いつも通りカッコよく決めようぜ！",
+                "text": "ついにライブだな。いつも通りカッコよく決めようぜ！",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-119.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
                 "name": "蘭、おめでとう！　蘭が幼馴染で、アタシは誇らしいよ",
                 "text": "蘭、おめでとう！　蘭が幼馴染で、アタシは誇らしいよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-098.mp3",
@@ -925,7 +616,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "赤とんぼが校庭を飛んでたんだ。なんか、秋！　って感じがしたよ",
                 "text": "赤とんぼが校庭を飛んでたんだ。なんか、秋！　って感じがしたよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-114.mp3",
@@ -935,7 +625,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "瀬田先輩、おめでとうございます！　また乗馬に誘ってください！",
                 "text": "瀬田先輩、おめでとうございます！　また乗馬に誘ってください！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-103.mp3",
@@ -945,7 +634,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/kime01.mtn",
                 "name": "鬼役はアタシだ！　さあ、どこからでもかかってこい！",
                 "text": "鬼役はアタシだ！　さあ、どこからでもかかってこい！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-121.mp3",
@@ -955,7 +643,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile03.mtn",
                 "name": "冷房の温度下げすぎだって、蘭とひまりにまた怒られちゃったよ",
                 "text": "冷房の温度下げすぎだって、蘭とひまりにまた怒られちゃったよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-109.mp3",
@@ -965,7 +652,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "夏と言えば祭りだよな！　今年も思いっきり太鼓叩くぞ～！",
                 "text": "夏と言えば祭りだよな！　今年も思いっきり太鼓叩くぞ～！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-110.mp3",
@@ -975,7 +661,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "打ち上げ花火のかけ声って言えば、やっぱ『たーまや！』だよな！",
                 "text": "打ち上げ花火のかけ声って言えば、やっぱ『たーまや！』だよな！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-111.mp3",
@@ -985,7 +670,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/sad01.mtn",
                 "name": "チョコがカバンに入り切らない……残りは抱えて、帰るか……",
                 "text": "チョコがカバンに入り切らない……残りは抱えて、帰るか……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-122.mp3",
@@ -995,7 +679,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "今年はどんな飾り付けにするかな～。じゃ、つぐの家行ってくる！",
                 "text": "今年はどんな飾り付けにするかな～。じゃ、つぐの家行ってくる！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-127.mp3",
@@ -1005,7 +688,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "はぐみ、おめでと！　今度ソフトボールの試合、応援に行くよ！",
                 "text": "はぐみ、おめでと！　今度ソフトボールの試合、応援に行くよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-104.mp3",
@@ -1015,7 +697,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "サンキュー！　大事にするよ！",
                 "text": "サンキュー！　大事にするよ！",
                 "sound": "../../../../sound/voice/system_rip/2019BDRE-TM.mp3",
@@ -1025,7 +706,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "さ、早く先へ進もうぜ",
                 "text": "好，我們趕快繼續下一首吧",
                 "sound": "../../../../sound/voice/system_rip/systemStory_009_1.mp3",
@@ -1035,7 +715,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "次が待ちきれないな〜早くいこーぜ！",
                 "text": "真等不及下次的演奏了〜我們快走吧～！",
                 "sound": "../../../../sound/voice/system_rip/systemStory_009_2.mp3",
@@ -1045,7 +724,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/simizimi01.mtn",
                 "name": "ふう……あと少しだな",
                 "text": "呼……就差一點了呢。",
                 "sound": "../../../../sound/voice/system_rip/systemStory_009_3.mp3",
@@ -1055,7 +733,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "スティック握ると、気合が入るんだ！",
                 "text": "手拿著鼓棒，就會讓人充滿幹勁呢！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_009_1.mp3",
@@ -1065,7 +742,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/kime01.mtn",
                 "name": "最高の音楽を演奏してみせる！",
                 "text": "我要演奏出最棒的音樂給你看！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_009_2.mp3",
@@ -1075,7 +751,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "早く演奏したいなあ〜！",
                 "text": "真希望能快點開始演奏〜！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_009_3.mp3",
@@ -1085,7 +760,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "あけましておめでとう。今年も神社で太鼓を叩くぞ～。ソイヤー！",
                 "text": "あけましておめでとう。今年も神社で太鼓を叩くぞ～。ソイヤー！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-120.mp3",
@@ -1095,7 +769,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "沙綾、おめでと！　今度、雑貨屋にヘアアクセ見に行こうぜ！",
                 "text": "沙綾、おめでと！　今度、雑貨屋にヘアアクセ見に行こうぜ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-102.mp3",
@@ -1105,7 +778,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "用意が大変だけど、ひな人形を飾るのはやっぱ楽しいよ",
                 "text": "用意が大変だけど、ひな人形を飾るのはやっぱ楽しいよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-123.mp3",
@@ -1115,7 +787,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "和太鼓は今年で卒業するつもりなんだ……なーんてな♪",
                 "text": "和太鼓は今年で卒業するつもりなんだ……なーんてな♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-125.mp3",
@@ -1125,7 +796,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "やっぱり冬はラーメン、だよな。みんな、ラーメン屋に行こうぜ！",
                 "text": "やっぱり冬はラーメン、だよな。みんな、ラーメン屋に行こうぜ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-115.mp3",
@@ -1135,7 +805,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/kime01.mtn",
                 "name": "よし、お返ししてくる！　今日中にみんなに配り切るぞ～！",
                 "text": "よし、お返ししてくる！　今日中にみんなに配り切るぞ～！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-124.mp3",
@@ -1145,7 +814,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "今年はみんなでスノボに行きたいな～。……今度、誘ってみるか",
                 "text": "今年はみんなでスノボに行きたいな～。……今度、誘ってみるか",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-116.mp3",
@@ -1155,7 +823,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "雪が降るとテンション上がるよな！　積もったら、もう最高だよ！",
                 "text": "雪が降るとテンション上がるよな！　積もったら、もう最高だよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-117.mp3",
@@ -1165,7 +832,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "つぐ、おめでと。いつもアタシ達をフォローしてくれてありがとな",
                 "text": "つぐ、おめでと。いつもアタシ達をフォローしてくれてありがとな",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-101.mp3",
@@ -1175,7 +841,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "明日は本番か～。今から演奏したくてウズウズするよ！",
                 "text": "明日は本番か～。今から演奏したくてウズウズするよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-118.mp3",
@@ -1185,7 +850,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "みんなに祝われるのって、やっぱ嬉しいもんだな。サンキュー！",
                 "text": "みんなに祝われるのって、やっぱ嬉しいもんだな。サンキュー！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-097.mp3",
@@ -1195,7 +859,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "あこ、おめでとう！　あこのカッコいいを貫いていってくれよ！",
                 "text": "あこ、おめでとう！　あこのカッコいいを貫いていってくれよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-105.mp3",
@@ -1205,7 +868,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "どれだけ年が変わっても、アタシ達はいつも通りだ。ずっとな♪",
                 "text": "どれだけ年が変わっても、アタシ達はいつも通りだ。ずっとな♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-128.mp3",
@@ -1215,7 +877,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "モカ、おめでとう！　モカはほんとカッコいいよ！",
                 "text": "モカ、おめでとう！　モカはほんとカッコいいよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-099.mp3",
@@ -1225,7 +886,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "ひまりがいてくれるとホントに心強いよ。誕生日おめでとう！",
                 "text": "ひまりがいてくれるとホントに心強いよ。誕生日おめでとう！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-100.mp3",
@@ -1235,7 +895,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile03.mtn",
                 "name": "ひまり、今年はどんな衣装を勧めてくれるんだろ……？",
                 "text": "ひまり、今年はどんな衣装を勧めてくれるんだろ……？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-126.mp3",
@@ -1245,7 +904,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile03.mtn",
                 "name": "春は眠気との戦いだよな～。日差しが気持ちよくて……ふぁ……",
                 "text": "春は眠気との戦いだよな～。日差しが気持ちよくて……ふぁ……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-106.mp3",
@@ -1255,7 +913,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "登校中に桜を見られるっていいよな。なんかテンション上がるよ！",
                 "text": "登校中に桜を見られるっていいよな。なんかテンション上がるよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-107.mp3",
@@ -1265,7 +922,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "この時期の夕焼けってホントキレイだよな。つい見入っちゃうよ",
                 "text": "この時期の夕焼けってホントキレイだよな。つい見入っちゃうよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-112.mp3",
@@ -1275,7 +931,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "秋の京都っていう写真集を見たんだ。すっごくいい雰囲気だったよ",
                 "text": "秋の京都っていう写真集を見たんだ。すっごくいい雰囲気だったよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-113.mp3",
@@ -1285,7 +940,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "今年は春物の服、新しく買うか。ひまり、一緒に来てくれよ",
                 "text": "今年は春物の服、新しく買うか。ひまり、一緒に来てくれよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-108.mp3",
@@ -1295,7 +949,15 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
+                "name": "ついにライブだな。いつも通りカッコよく決めようぜ！",
+                "text": "ついにライブだな。いつも通りカッコよく決めようぜ！",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-119.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
                 "name": "蘭、おめでとう！　蘭が幼馴染で、アタシは誇らしいよ",
                 "text": "蘭、おめでとう！　蘭が幼馴染で、アタシは誇らしいよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-098.mp3",
@@ -1305,7 +967,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "赤とんぼが校庭を飛んでたんだ。なんか、秋！　って感じがしたよ",
                 "text": "赤とんぼが校庭を飛んでたんだ。なんか、秋！　って感じがしたよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-114.mp3",
@@ -1315,7 +976,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "瀬田先輩、おめでとうございます！　また乗馬に誘ってください！",
                 "text": "瀬田先輩、おめでとうございます！　また乗馬に誘ってください！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-103.mp3",
@@ -1325,7 +985,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/kime01.mtn",
                 "name": "鬼役はアタシだ！　さあ、どこからでもかかってこい！",
                 "text": "鬼役はアタシだ！　さあ、どこからでもかかってこい！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-121.mp3",
@@ -1335,7 +994,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile03.mtn",
                 "name": "冷房の温度下げすぎだって、蘭とひまりにまた怒られちゃったよ",
                 "text": "冷房の温度下げすぎだって、蘭とひまりにまた怒られちゃったよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-109.mp3",
@@ -1345,7 +1003,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "夏と言えば祭りだよな！　今年も思いっきり太鼓叩くぞ～！",
                 "text": "夏と言えば祭りだよな！　今年も思いっきり太鼓叩くぞ～！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-110.mp3",
@@ -1355,7 +1012,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "打ち上げ花火のかけ声って言えば、やっぱ『たーまや！』だよな！",
                 "text": "打ち上げ花火のかけ声って言えば、やっぱ『たーまや！』だよな！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-111.mp3",
@@ -1365,7 +1021,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/sad01.mtn",
                 "name": "チョコがカバンに入り切らない……残りは抱えて、帰るか……",
                 "text": "チョコがカバンに入り切らない……残りは抱えて、帰るか……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-122.mp3",
@@ -1375,7 +1030,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "今年はどんな飾り付けにするかな～。じゃ、つぐの家行ってくる！",
                 "text": "今年はどんな飾り付けにするかな～。じゃ、つぐの家行ってくる！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-127.mp3",
@@ -1385,7 +1039,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "はぐみ、おめでと！　今度ソフトボールの試合、応援に行くよ！",
                 "text": "はぐみ、おめでと！　今度ソフトボールの試合、応援に行くよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-104.mp3",
@@ -1395,7 +1048,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "サンキュー！　大事にするよ！",
                 "text": "３Ｑ～！ 我會好好收著的！",
                 "sound": "../../../../sound/voice/system_rip/2019BDRE-TM.mp3",
@@ -1405,7 +1057,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "さ、早く先へ進もうぜ",
                 "text": "All right, let's get a move on.",
                 "sound": "../../../../sound/voice/system_rip/systemStory_009_1.mp3",
@@ -1415,7 +1066,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "次が待ちきれないな〜早くいこーぜ！",
                 "text": "I can't wait anymore~. Let's go!",
                 "sound": "../../../../sound/voice/system_rip/systemStory_009_2.mp3",
@@ -1425,7 +1075,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/simizimi01.mtn",
                 "name": "ふう……あと少しだな",
                 "text": "Phew... Just a little more.",
                 "sound": "../../../../sound/voice/system_rip/systemStory_009_3.mp3",
@@ -1435,7 +1084,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "スティック握ると、気合が入るんだ！",
                 "text": "There's nothing like banging some drums!",
                 "sound": "../../../../sound/voice/system_rip/systemBand_009_1.mp3",
@@ -1445,7 +1093,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/kime01.mtn",
                 "name": "最高の音楽を演奏してみせる！",
                 "text": "Let's give them all we've got!",
                 "sound": "../../../../sound/voice/system_rip/systemBand_009_2.mp3",
@@ -1455,7 +1102,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "早く演奏したいなあ〜！",
                 "text": "When is the next performance~?",
                 "sound": "../../../../sound/voice/system_rip/systemBand_009_3.mp3",
@@ -1465,7 +1111,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "あけましておめでとう。今年も神社で太鼓を叩くぞ～。ソイヤー！",
                 "text": "あけましておめでとう。今年も神社で太鼓を叩くぞ～。ソイヤー！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-120.mp3",
@@ -1475,7 +1120,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "沙綾、おめでと！　今度、雑貨屋にヘアアクセ見に行こうぜ！",
                 "text": "沙綾、おめでと！　今度、雑貨屋にヘアアクセ見に行こうぜ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-102.mp3",
@@ -1485,7 +1129,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "用意が大変だけど、ひな人形を飾るのはやっぱ楽しいよ",
                 "text": "用意が大変だけど、ひな人形を飾るのはやっぱ楽しいよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-123.mp3",
@@ -1495,7 +1138,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "和太鼓は今年で卒業するつもりなんだ……なーんてな♪",
                 "text": "和太鼓は今年で卒業するつもりなんだ……なーんてな♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-125.mp3",
@@ -1505,7 +1147,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "やっぱり冬はラーメン、だよな。みんな、ラーメン屋に行こうぜ！",
                 "text": "やっぱり冬はラーメン、だよな。みんな、ラーメン屋に行こうぜ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-115.mp3",
@@ -1515,7 +1156,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/kime01.mtn",
                 "name": "よし、お返ししてくる！　今日中にみんなに配り切るぞ～！",
                 "text": "よし、お返ししてくる！　今日中にみんなに配り切るぞ～！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-124.mp3",
@@ -1525,7 +1165,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "今年はみんなでスノボに行きたいな～。……今度、誘ってみるか",
                 "text": "今年はみんなでスノボに行きたいな～。……今度、誘ってみるか",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-116.mp3",
@@ -1535,7 +1174,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "雪が降るとテンション上がるよな！　積もったら、もう最高だよ！",
                 "text": "雪が降るとテンション上がるよな！　積もったら、もう最高だよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-117.mp3",
@@ -1545,7 +1183,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "つぐ、おめでと。いつもアタシ達をフォローしてくれてありがとな",
                 "text": "つぐ、おめでと。いつもアタシ達をフォローしてくれてありがとな",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-101.mp3",
@@ -1555,7 +1192,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "明日は本番か～。今から演奏したくてウズウズするよ！",
                 "text": "明日は本番か～。今から演奏したくてウズウズするよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-118.mp3",
@@ -1565,7 +1201,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "みんなに祝われるのって、やっぱ嬉しいもんだな。サンキュー！",
                 "text": "みんなに祝われるのって、やっぱ嬉しいもんだな。サンキュー！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-097.mp3",
@@ -1575,7 +1210,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "あこ、おめでとう！　あこのカッコいいを貫いていってくれよ！",
                 "text": "あこ、おめでとう！　あこのカッコいいを貫いていってくれよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-105.mp3",
@@ -1585,7 +1219,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "どれだけ年が変わっても、アタシ達はいつも通りだ。ずっとな♪",
                 "text": "どれだけ年が変わっても、アタシ達はいつも通りだ。ずっとな♪",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-128.mp3",
@@ -1595,7 +1228,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "モカ、おめでとう！　モカはほんとカッコいいよ！",
                 "text": "モカ、おめでとう！　モカはほんとカッコいいよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-099.mp3",
@@ -1605,7 +1237,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "ひまりがいてくれるとホントに心強いよ。誕生日おめでとう！",
                 "text": "ひまりがいてくれるとホントに心強いよ。誕生日おめでとう！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-100.mp3",
@@ -1615,7 +1246,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile03.mtn",
                 "name": "ひまり、今年はどんな衣装を勧めてくれるんだろ……？",
                 "text": "ひまり、今年はどんな衣装を勧めてくれるんだろ……？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-126.mp3",
@@ -1625,7 +1255,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile03.mtn",
                 "name": "春は眠気との戦いだよな～。日差しが気持ちよくて……ふぁ……",
                 "text": "春は眠気との戦いだよな～。日差しが気持ちよくて……ふぁ……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-106.mp3",
@@ -1635,7 +1264,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "登校中に桜を見られるっていいよな。なんかテンション上がるよ！",
                 "text": "登校中に桜を見られるっていいよな。なんかテンション上がるよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-107.mp3",
@@ -1645,7 +1273,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile01.mtn",
                 "name": "この時期の夕焼けってホントキレイだよな。つい見入っちゃうよ",
                 "text": "この時期の夕焼けってホントキレイだよな。つい見入っちゃうよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-112.mp3",
@@ -1655,7 +1282,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "秋の京都っていう写真集を見たんだ。すっごくいい雰囲気だったよ",
                 "text": "秋の京都っていう写真集を見たんだ。すっごくいい雰囲気だったよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-113.mp3",
@@ -1665,7 +1291,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "今年は春物の服、新しく買うか。ひまり、一緒に来てくれよ",
                 "text": "今年は春物の服、新しく買うか。ひまり、一緒に来てくれよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-108.mp3",
@@ -1675,7 +1300,15 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
+                "name": "ついにライブだな。いつも通りカッコよく決めようぜ！",
+                "text": "ついにライブだな。いつも通りカッコよく決めようぜ！",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-119.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
                 "name": "蘭、おめでとう！　蘭が幼馴染で、アタシは誇らしいよ",
                 "text": "蘭、おめでとう！　蘭が幼馴染で、アタシは誇らしいよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-098.mp3",
@@ -1685,7 +1318,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "赤とんぼが校庭を飛んでたんだ。なんか、秋！　って感じがしたよ",
                 "text": "赤とんぼが校庭を飛んでたんだ。なんか、秋！　って感じがしたよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-114.mp3",
@@ -1695,7 +1327,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "瀬田先輩、おめでとうございます！　また乗馬に誘ってください！",
                 "text": "瀬田先輩、おめでとうございます！　また乗馬に誘ってください！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-103.mp3",
@@ -1705,7 +1336,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/kime01.mtn",
                 "name": "鬼役はアタシだ！　さあ、どこからでもかかってこい！",
                 "text": "鬼役はアタシだ！　さあ、どこからでもかかってこい！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-121.mp3",
@@ -1715,7 +1345,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile03.mtn",
                 "name": "冷房の温度下げすぎだって、蘭とひまりにまた怒られちゃったよ",
                 "text": "冷房の温度下げすぎだって、蘭とひまりにまた怒られちゃったよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-109.mp3",
@@ -1725,7 +1354,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "夏と言えば祭りだよな！　今年も思いっきり太鼓叩くぞ～！",
                 "text": "夏と言えば祭りだよな！　今年も思いっきり太鼓叩くぞ～！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-110.mp3",
@@ -1735,7 +1363,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "打ち上げ花火のかけ声って言えば、やっぱ『たーまや！』だよな！",
                 "text": "打ち上げ花火のかけ声って言えば、やっぱ『たーまや！』だよな！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-111.mp3",
@@ -1745,7 +1372,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/sad01.mtn",
                 "name": "チョコがカバンに入り切らない……残りは抱えて、帰るか……",
                 "text": "チョコがカバンに入り切らない……残りは抱えて、帰るか……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-122.mp3",
@@ -1755,7 +1381,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "今年はどんな飾り付けにするかな～。じゃ、つぐの家行ってくる！",
                 "text": "今年はどんな飾り付けにするかな～。じゃ、つぐの家行ってくる！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-127.mp3",
@@ -1765,7 +1390,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf05.mtn",
                 "name": "はぐみ、おめでと！　今度ソフトボールの試合、応援に行くよ！",
                 "text": "はぐみ、おめでと！　今度ソフトボールの試合、応援に行くよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-104.mp3",
@@ -1775,7 +1399,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/smile02.mtn",
                 "name": "サンキュー！　大事にするよ！",
                 "text": "Thanks! I'll take good care of it!",
                 "sound": "../../../../sound/voice/system_rip/2019BDRE-TM.mp3",
@@ -1787,7 +1410,6 @@
         ],
         "start": [
             {
-                "file": "../../../../live2d/chara/009_general_rip/bye01.mtn",
                 "name": "おっす。今日もがんばろうな",
                 "text": "おっす。今日もがんばろうな",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_009_1.mp3",
@@ -1797,7 +1419,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "いつもお疲れ。あんまり無理はするなよ？",
                 "text": "いつもお疲れ。あんまり無理はするなよ？",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_009_2.mp3",
@@ -1807,7 +1428,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/wink01.mtn",
                 "name": "よ。調子はどうだ？",
                 "text": "よ。調子はどうだ？",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_009_3.mp3",
@@ -1817,7 +1437,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/bye01.mtn",
                 "name": "おっす。今日もがんばろうな",
                 "text": "你好，今天也加油吧",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_009_1.mp3",
@@ -1827,7 +1446,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "いつもお疲れ。あんまり無理はするなよ？",
                 "text": "辛苦了。不要太勉强自己哦？",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_009_2.mp3",
@@ -1837,7 +1455,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/wink01.mtn",
                 "name": "よ。調子はどうだ？",
                 "text": "哟，感觉怎么样？",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_009_3.mp3",
@@ -1847,7 +1464,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/bye01.mtn",
                 "name": "おっす。今日もがんばろうな",
                 "text": "嗨。今天也好好加油吧。",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_009_1.mp3",
@@ -1857,7 +1473,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "いつもお疲れ。あんまり無理はするなよ？",
                 "text": "平常總是辛苦你們了，別太勉強自己喔？",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_009_2.mp3",
@@ -1867,7 +1482,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/wink01.mtn",
                 "name": "よ。調子はどうだ？",
                 "text": "嗨。感覺如何呀？",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_009_3.mp3",
@@ -1877,7 +1491,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/bye01.mtn",
                 "name": "おっす。今日もがんばろうな",
                 "text": "Hey. We've got this.",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_009_1.mp3",
@@ -1887,7 +1500,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/nf03.mtn",
                 "name": "いつもお疲れ。あんまり無理はするなよ？",
                 "text": "What's up? Don't push yourself too hard, all right?",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_009_2.mp3",
@@ -1897,7 +1509,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/009_general_rip/wink01.mtn",
                 "name": "よ。調子はどうだ？",
                 "text": "Yo. What's up?",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_009_3.mp3",

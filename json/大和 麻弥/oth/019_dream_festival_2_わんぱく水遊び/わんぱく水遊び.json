@@ -1,374 +1,9 @@
 {
-    "type": "Live2D Model Setting",
-    "name": "わんぱく水遊び",
-    "model": "../../../../live2d/chara/019_dream_festival_2_rip/maya_fes-2.moc",
-    "textures": [
-        "../../../../live2d/chara/019_dream_festival_2_rip/texture_00.png",
-        "../../../../live2d/chara/019_dream_festival_2_rip/texture_01.png"
-    ],
-    "physics": "../../../../live2d/chara/019_dream_festival_2_rip/maya_fes-2.physics",
-    "expressions": [
-        {
-            "name": "angry01",
-            "file": "../../../../live2d/chara/019_general_rip/angry01.exp.json"
-        },
-        {
-            "name": "cry01",
-            "file": "../../../../live2d/chara/019_general_rip/cry01.exp.json"
-        },
-        {
-            "name": "default",
-            "file": "../../../../live2d/chara/019_general_rip/default.exp.json"
-        },
-        {
-            "name": "idle01",
-            "file": "../../../../live2d/chara/019_general_rip/idle01.exp.json"
-        },
-        {
-            "name": "kime01",
-            "file": "../../../../live2d/chara/019_general_rip/kime01.exp.json"
-        },
-        {
-            "name": "maya_default",
-            "file": "../../../../live2d/chara/019_general_rip/maya_default.exp.json"
-        },
-        {
-            "name": "maya_serious",
-            "file": "../../../../live2d/chara/019_general_rip/maya_serious.exp.json"
-        },
-        {
-            "name": "maya_smile02",
-            "file": "../../../../live2d/chara/019_general_rip/maya_smile02.exp.json"
-        },
-        {
-            "name": "maya_special01",
-            "file": "../../../../live2d/chara/019_general_rip/maya_special01.exp.json"
-        },
-        {
-            "name": "maya_special02",
-            "file": "../../../../live2d/chara/019_general_rip/maya_special02.exp.json"
-        },
-        {
-            "name": "maya_special03",
-            "file": "../../../../live2d/chara/019_general_rip/maya_special03.exp.json"
-        },
-        {
-            "name": "sad01",
-            "file": "../../../../live2d/chara/019_general_rip/sad01.exp.json"
-        },
-        {
-            "name": "serious01",
-            "file": "../../../../live2d/chara/019_general_rip/serious01.exp.json"
-        },
-        {
-            "name": "smile01",
-            "file": "../../../../live2d/chara/019_general_rip/smile01.exp.json"
-        },
-        {
-            "name": "smile02",
-            "file": "../../../../live2d/chara/019_general_rip/smile02.exp.json"
-        },
-        {
-            "name": "smile03",
-            "file": "../../../../live2d/chara/019_general_rip/smile03.exp.json"
-        },
-        {
-            "name": "smile04",
-            "file": "../../../../live2d/chara/019_general_rip/smile04.exp.json"
-        },
-        {
-            "name": "surprised01",
-            "file": "../../../../live2d/chara/019_general_rip/surprised01.exp.json"
-        }
-    ],
+    "model": "../../../..//chara//",
+    "physics": "../../../..//chara//",
     "motions": {
-        "angry": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/angry01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "bye": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/bye01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "cry": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/cry01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/019_general_rip/cry02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/019_general_rip/cry03.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "eeto": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/eeto01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "gattsu": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "idle": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/idle01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/019_general_rip/idle02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "kime": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/kime01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/019_general_rip/kime02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/019_general_rip/kime04.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nf": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/nf01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/019_general_rip/nf02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/019_general_rip/nf03.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/019_general_rip/nf04.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nf_cry": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/nf01_cry.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/019_general_rip/nf03_cry.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/019_general_rip/nf05_cry.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nf_left": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/nf_left01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nf_right": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/nf_right01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nnf": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/nnf01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/019_general_rip/nnf02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/019_general_rip/nnf03.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/019_general_rip/nnf04.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/019_general_rip/nnf05.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nnf_left": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/nnf_left01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nnf_right": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/nnf_right01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "odoodo": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/odoodo01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "odoodo_cry": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/odoodo01_cry.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "sad": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/sad01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "serious": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/serious01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "serious_cry": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/serious01_cry.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "shame": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/shame01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "sleep": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/sleep01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "smile": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/019_general_rip/smile03.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/019_general_rip/smile04.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "smile_cry": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/smile02_cry.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/019_general_rip/smile03_cry.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "surprised": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/surprised01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "talk": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/talk01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "wink": [
-            {
-                "file": "../../../../live2d/chara/019_general_rip/wink01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "gacha": [
-            {
-                "file": "../../../../live2d/chara/019_dream_festival_2_rip/gacha01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
         "tap": [
             {
-                "file": "../../../../live2d/chara/019_general_rip/surprised01.mtn",
                 "name": "えっ、ここで終わりですか？　続きが気になります",
                 "text": "えっ、ここで終わりですか？　続きが気になります",
                 "sound": "../../../../sound/voice/system_rip/systemStory_019_1.mp3",
@@ -378,7 +13,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/sad01.mtn",
                 "name": "なんとか頑張っていただきたいですが……",
                 "text": "なんとか頑張っていただきたいですが……",
                 "sound": "../../../../sound/voice/system_rip/systemStory_019_2.mp3",
@@ -388,7 +22,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "すごくいい感じですね！　ジブンは応援してます",
                 "text": "すごくいい感じですね！　ジブンは応援してます",
                 "sound": "../../../../sound/voice/system_rip/systemStory_019_3.mp3",
@@ -398,7 +31,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/kime01.mtn",
                 "name": "よい演奏はよい機材から！",
                 "text": "よい演奏はよい機材から！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_019_1.mp3",
@@ -408,7 +40,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "いい演奏しましょうね",
                 "text": "いい演奏しましょうね",
                 "sound": "../../../../sound/voice/system_rip/systemBand_019_2.mp3",
@@ -418,7 +49,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "バンドって、楽しいですよねっ！",
                 "text": "バンドって、楽しいですよねっ！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_019_3.mp3",
@@ -428,7 +58,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/serious01.mtn",
                 "name": "夏の湿気は楽器の天敵です。適度な状態で保ってあげましょう",
                 "text": "夏の湿気は楽器の天敵です。適度な状態で保ってあげましょう",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-109.mp3",
@@ -438,7 +67,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今日は彩さんの誕生日。ステージ上で輝く姿、憧れます！",
                 "text": "今日は彩さんの誕生日。ステージ上で輝く姿、憧れます！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-098.mp3",
@@ -448,7 +76,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "花火玉は、緻密な手作業で作られます。職人の技、しびれますね！",
                 "text": "花火玉は、緻密な手作業で作られます。職人の技、しびれますね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-110.mp3",
@@ -458,7 +85,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/odoodo01.mtn",
                 "name": "もしや、水着って毎年買い換えないといけないんですかね……？",
                 "text": "もしや、水着って毎年買い換えないといけないんですかね……？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-111.mp3",
@@ -468,7 +94,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今日は湊さんの誕生日。持ち運べる加湿器を選びましたよ！",
                 "text": "今日は湊さんの誕生日。持ち運べる加湿器を選びましたよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-104.mp3",
@@ -478,7 +103,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "今日はイヴさんの誕生日。時代劇のDVD、喜んでくれますかね？",
                 "text": "今日はイヴさんの誕生日。時代劇のDVD、喜んでくれますかね？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-101.mp3",
@@ -488,7 +112,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "誕生日、ファンの人達にもお祝いしてもらえました……フヘヘ",
                 "text": "誕生日、ファンの人達にもお祝いしてもらえました……フヘヘ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-097.mp3",
@@ -498,7 +121,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile03.mtn",
                 "name": "ウソをつくのはどうも苦手で……すぐに自分でバラしちゃうんです",
                 "text": "ウソをつくのはどうも苦手で……すぐに自分でバラしちゃうんです",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-125.mp3",
@@ -508,7 +130,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "クリスマスですね！　赤鼻のトナカイは、ルドルフというそうです",
                 "text": "クリスマスですね！　赤鼻のトナカイは、ルドルフというそうです",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-127.mp3",
@@ -518,7 +139,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "ついに本番です！　最高のライブを、みなさんにお届けしますよ！",
                 "text": "ついに本番です！　最高のライブを、みなさんにお届けしますよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-119.mp3",
@@ -528,7 +148,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "ひな人形の五人囃子は、打楽器担当がなんと三人もいるんですよ",
                 "text": "ひな人形の五人囃子は、打楽器担当がなんと三人もいるんですよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-123.mp3",
@@ -538,7 +157,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "桜の花と梅の花。似ていますが、花びらの形で見分けられるんです",
                 "text": "桜の花と梅の花。似ていますが、花びらの形で見分けられるんです",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-106.mp3",
@@ -548,7 +166,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "春から音楽を始めた人をよく見かけます。楽しんでほしいですね",
                 "text": "春から音楽を始めた人をよく見かけます。楽しんでほしいですね",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-107.mp3",
@@ -558,7 +175,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "春の山菜はちょっぴり苦いですけど、それがおいしいんですよね〜",
                 "text": "春の山菜はちょっぴり苦いですけど、それがおいしいんですよね〜",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-108.mp3",
@@ -568,7 +184,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "今日は千聖さんの誕生日。ティーポット……なんてどうですかね？",
                 "text": "今日は千聖さんの誕生日。ティーポット……なんてどうですかね？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-100.mp3",
@@ -578,7 +193,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf02.mtn",
                 "name": "早いもので、もう明日が本番ですね！　機材チェックも万全です！",
                 "text": "早いもので、もう明日が本番ですね！　機材チェックも万全です！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-118.mp3",
@@ -588,7 +202,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf02.mtn",
                 "name": "あけましておめでとうございます！　初詣はもう行きましたか？",
                 "text": "あけましておめでとうございます！　初詣はもう行きましたか？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-120.mp3",
@@ -598,7 +211,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile04.mtn",
                 "name": "秋の夜長は、機材いじりにぴったりなんですよ……フヘヘ",
                 "text": "秋の夜長は、機材いじりにぴったりなんですよ……フヘヘ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-112.mp3",
@@ -608,7 +220,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "今日は羽沢さんの誕生日。いつも日菜さんがお世話になっています",
                 "text": "今日は羽沢さんの誕生日。いつも日菜さんがお世話になっています",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-102.mp3",
@@ -618,7 +229,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "紅葉の季節です。紅葉といえば、メイプルのスネアですね！",
                 "text": "紅葉の季節です。紅葉といえば、メイプルのスネアですね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-113.mp3",
@@ -628,7 +238,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "芸術の秋です！　我々演劇部も、新たな公演に向けて準備中ですよ",
                 "text": "芸術の秋です！　我々演劇部も、新たな公演に向けて準備中ですよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-114.mp3",
@@ -638,7 +247,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今年も大変お世話になりました！　よいお年をお迎えください！",
                 "text": "今年も大変お世話になりました！　よいお年をお迎えください！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-128.mp3",
@@ -648,7 +256,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "パスパレの楽器型クッキーを作りました！　彩さんはマイクです",
                 "text": "パスパレの楽器型クッキーを作りました！　彩さんはマイクです",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-124.mp3",
@@ -658,7 +265,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今日は薫さんの誕生日。演劇部では、バースデー公演をやりますよ",
                 "text": "今日は薫さんの誕生日。演劇部では、バースデー公演をやりますよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-103.mp3",
@@ -668,7 +274,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf02.mtn",
                 "name": "今の時間と陽の傾きからして……今年の恵方は、あの方角です！",
                 "text": "今の時間と陽の傾きからして……今年の恵方は、あの方角です！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-121.mp3",
@@ -678,7 +283,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "冬はドラムを叩くと体が温まります！　夏は地獄ですけどね……",
                 "text": "冬はドラムを叩くと体が温まります！　夏は地獄ですけどね……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-115.mp3",
@@ -688,7 +292,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf02.mtn",
                 "name": "お鍋っていいですよね。切った具材を入れるだけで完成するので",
                 "text": "お鍋っていいですよね。切った具材を入れるだけで完成するので",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-116.mp3",
@@ -698,7 +301,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile03.mtn",
                 "name": "冬はお店に入ると、一瞬でメガネが曇ってしまいます……",
                 "text": "冬はお店に入ると、一瞬でメガネが曇ってしまいます……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-117.mp3",
@@ -708,7 +310,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "今日は日菜さんの誕生日。おすすめのシールドを贈ろうと思います",
                 "text": "今日は日菜さんの誕生日。おすすめのシールドを贈ろうと思います",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-099.mp3",
@@ -718,7 +319,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/serious01.mtn",
                 "name": "毎年日菜さんにイタズラされるので、今日も警戒しなくては……！",
                 "text": "毎年日菜さんにイタズラされるので、今日も警戒しなくては……！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-126.mp3",
@@ -728,7 +328,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "今日は白金さんの誕生日。また演劇部の衣装、お願いしたいです！",
                 "text": "今日は白金さんの誕生日。また演劇部の衣装、お願いしたいです！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-105.mp3",
@@ -738,7 +337,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "今年もパスパレで、チョコレートの交換会をやるんですよ",
                 "text": "今年もパスパレで、チョコレートの交換会をやるんですよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-122.mp3",
@@ -748,7 +346,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "うわぁ、すごく嬉しいです！　フヘヘ……",
                 "text": "うわぁ、すごく嬉しいです！　フヘヘ……",
                 "sound": "../../../../sound/voice/system_rip/2019BDRE-MY.mp3",
@@ -758,7 +355,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/surprised01.mtn",
                 "name": "えっ、ここで終わりですか？　続きが気になります",
                 "text": "诶，到这里就结束了吗？我非常在意后续是什么",
                 "sound": "../../../../sound/voice/system_rip/systemStory_019_1.mp3",
@@ -768,7 +364,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/sad01.mtn",
                 "name": "なんとか頑張っていただきたいですが……",
                 "text": "还是希望你能够再努力一下……",
                 "sound": "../../../../sound/voice/system_rip/systemStory_019_2.mp3",
@@ -778,7 +373,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "すごくいい感じですね！　ジブンは応援してます",
                 "text": "感觉非常好！我会支持你的",
                 "sound": "../../../../sound/voice/system_rip/systemStory_019_3.mp3",
@@ -788,7 +382,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/kime01.mtn",
                 "name": "よい演奏はよい機材から！",
                 "text": "精彩的演奏来自优良的器材！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_019_1.mp3",
@@ -798,7 +391,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "いい演奏しましょうね",
                 "text": "进行一场精彩的演奏吧",
                 "sound": "../../../../sound/voice/system_rip/systemBand_019_2.mp3",
@@ -808,7 +400,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "バンドって、楽しいですよねっ！",
                 "text": "乐队真开心！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_019_3.mp3",
@@ -818,7 +409,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/serious01.mtn",
                 "name": "夏の湿気は楽器の天敵です。適度な状態で保ってあげましょう",
                 "text": "夏の湿気は楽器の天敵です。適度な状態で保ってあげましょう",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-109.mp3",
@@ -828,7 +418,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今日は彩さんの誕生日。ステージ上で輝く姿、憧れます！",
                 "text": "今日は彩さんの誕生日。ステージ上で輝く姿、憧れます！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-098.mp3",
@@ -838,7 +427,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "花火玉は、緻密な手作業で作られます。職人の技、しびれますね！",
                 "text": "花火玉は、緻密な手作業で作られます。職人の技、しびれますね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-110.mp3",
@@ -848,7 +436,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/odoodo01.mtn",
                 "name": "もしや、水着って毎年買い換えないといけないんですかね……？",
                 "text": "もしや、水着って毎年買い換えないといけないんですかね……？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-111.mp3",
@@ -858,7 +445,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今日は湊さんの誕生日。持ち運べる加湿器を選びましたよ！",
                 "text": "今日は湊さんの誕生日。持ち運べる加湿器を選びましたよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-104.mp3",
@@ -868,7 +454,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "今日はイヴさんの誕生日。時代劇のDVD、喜んでくれますかね？",
                 "text": "今日はイヴさんの誕生日。時代劇のDVD、喜んでくれますかね？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-101.mp3",
@@ -878,7 +463,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "誕生日、ファンの人達にもお祝いしてもらえました……フヘヘ",
                 "text": "誕生日、ファンの人達にもお祝いしてもらえました……フヘヘ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-097.mp3",
@@ -888,7 +472,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile03.mtn",
                 "name": "ウソをつくのはどうも苦手で……すぐに自分でバラしちゃうんです",
                 "text": "ウソをつくのはどうも苦手で……すぐに自分でバラしちゃうんです",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-125.mp3",
@@ -898,7 +481,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "クリスマスですね！　赤鼻のトナカイは、ルドルフというそうです",
                 "text": "クリスマスですね！　赤鼻のトナカイは、ルドルフというそうです",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-127.mp3",
@@ -908,7 +490,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "ついに本番です！　最高のライブを、みなさんにお届けしますよ！",
                 "text": "ついに本番です！　最高のライブを、みなさんにお届けしますよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-119.mp3",
@@ -918,7 +499,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "ひな人形の五人囃子は、打楽器担当がなんと三人もいるんですよ",
                 "text": "ひな人形の五人囃子は、打楽器担当がなんと三人もいるんですよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-123.mp3",
@@ -928,7 +508,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "桜の花と梅の花。似ていますが、花びらの形で見分けられるんです",
                 "text": "桜の花と梅の花。似ていますが、花びらの形で見分けられるんです",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-106.mp3",
@@ -938,7 +517,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "春から音楽を始めた人をよく見かけます。楽しんでほしいですね",
                 "text": "春から音楽を始めた人をよく見かけます。楽しんでほしいですね",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-107.mp3",
@@ -948,7 +526,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "春の山菜はちょっぴり苦いですけど、それがおいしいんですよね〜",
                 "text": "春の山菜はちょっぴり苦いですけど、それがおいしいんですよね〜",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-108.mp3",
@@ -958,7 +535,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "今日は千聖さんの誕生日。ティーポット……なんてどうですかね？",
                 "text": "今日は千聖さんの誕生日。ティーポット……なんてどうですかね？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-100.mp3",
@@ -968,7 +544,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf02.mtn",
                 "name": "早いもので、もう明日が本番ですね！　機材チェックも万全です！",
                 "text": "早いもので、もう明日が本番ですね！　機材チェックも万全です！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-118.mp3",
@@ -978,7 +553,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf02.mtn",
                 "name": "あけましておめでとうございます！　初詣はもう行きましたか？",
                 "text": "あけましておめでとうございます！　初詣はもう行きましたか？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-120.mp3",
@@ -988,7 +562,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile04.mtn",
                 "name": "秋の夜長は、機材いじりにぴったりなんですよ……フヘヘ",
                 "text": "秋の夜長は、機材いじりにぴったりなんですよ……フヘヘ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-112.mp3",
@@ -998,7 +571,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "今日は羽沢さんの誕生日。いつも日菜さんがお世話になっています",
                 "text": "今日は羽沢さんの誕生日。いつも日菜さんがお世話になっています",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-102.mp3",
@@ -1008,7 +580,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "紅葉の季節です。紅葉といえば、メイプルのスネアですね！",
                 "text": "紅葉の季節です。紅葉といえば、メイプルのスネアですね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-113.mp3",
@@ -1018,7 +589,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "芸術の秋です！　我々演劇部も、新たな公演に向けて準備中ですよ",
                 "text": "芸術の秋です！　我々演劇部も、新たな公演に向けて準備中ですよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-114.mp3",
@@ -1028,7 +598,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今年も大変お世話になりました！　よいお年をお迎えください！",
                 "text": "今年も大変お世話になりました！　よいお年をお迎えください！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-128.mp3",
@@ -1038,7 +607,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "パスパレの楽器型クッキーを作りました！　彩さんはマイクです",
                 "text": "パスパレの楽器型クッキーを作りました！　彩さんはマイクです",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-124.mp3",
@@ -1048,7 +616,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今日は薫さんの誕生日。演劇部では、バースデー公演をやりますよ",
                 "text": "今日は薫さんの誕生日。演劇部では、バースデー公演をやりますよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-103.mp3",
@@ -1058,7 +625,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf02.mtn",
                 "name": "今の時間と陽の傾きからして……今年の恵方は、あの方角です！",
                 "text": "今の時間と陽の傾きからして……今年の恵方は、あの方角です！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-121.mp3",
@@ -1068,7 +634,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "冬はドラムを叩くと体が温まります！　夏は地獄ですけどね……",
                 "text": "冬はドラムを叩くと体が温まります！　夏は地獄ですけどね……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-115.mp3",
@@ -1078,7 +643,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf02.mtn",
                 "name": "お鍋っていいですよね。切った具材を入れるだけで完成するので",
                 "text": "お鍋っていいですよね。切った具材を入れるだけで完成するので",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-116.mp3",
@@ -1088,7 +652,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile03.mtn",
                 "name": "冬はお店に入ると、一瞬でメガネが曇ってしまいます……",
                 "text": "冬はお店に入ると、一瞬でメガネが曇ってしまいます……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-117.mp3",
@@ -1098,7 +661,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "今日は日菜さんの誕生日。おすすめのシールドを贈ろうと思います",
                 "text": "今日は日菜さんの誕生日。おすすめのシールドを贈ろうと思います",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-099.mp3",
@@ -1108,7 +670,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/serious01.mtn",
                 "name": "毎年日菜さんにイタズラされるので、今日も警戒しなくては……！",
                 "text": "毎年日菜さんにイタズラされるので、今日も警戒しなくては……！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-126.mp3",
@@ -1118,7 +679,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "今日は白金さんの誕生日。また演劇部の衣装、お願いしたいです！",
                 "text": "今日は白金さんの誕生日。また演劇部の衣装、お願いしたいです！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-105.mp3",
@@ -1128,7 +688,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "今年もパスパレで、チョコレートの交換会をやるんですよ",
                 "text": "今年もパスパレで、チョコレートの交換会をやるんですよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-122.mp3",
@@ -1138,7 +697,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "うわぁ、すごく嬉しいです！　フヘヘ……",
                 "text": "うわぁ、すごく嬉しいです！　フヘヘ……",
                 "sound": "../../../../sound/voice/system_rip/2019BDRE-MY.mp3",
@@ -1148,7 +706,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/surprised01.mtn",
                 "name": "えっ、ここで終わりですか？　続きが気になります",
                 "text": "咦，這裡就結束了嗎？ 好在意後續是什麼啊",
                 "sound": "../../../../sound/voice/system_rip/systemStory_019_1.mp3",
@@ -1158,7 +715,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/sad01.mtn",
                 "name": "なんとか頑張っていただきたいですが……",
                 "text": "雖然我很希望他們能再認真一點……",
                 "sound": "../../../../sound/voice/system_rip/systemStory_019_2.mp3",
@@ -1168,7 +724,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "すごくいい感じですね！　ジブンは応援してます",
                 "text": "這感覺真不錯呢！我也來為大家加油吧。",
                 "sound": "../../../../sound/voice/system_rip/systemStory_019_3.mp3",
@@ -1178,7 +733,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/kime01.mtn",
                 "name": "よい演奏はよい機材から！",
                 "text": "好的演奏就要有好的器材！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_019_1.mp3",
@@ -1188,7 +742,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "いい演奏しましょうね",
                 "text": "來場很棒的演奏吧",
                 "sound": "../../../../sound/voice/system_rip/systemBand_019_2.mp3",
@@ -1198,7 +751,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "バンドって、楽しいですよねっ！",
                 "text": "組樂團真有趣呢！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_019_3.mp3",
@@ -1208,7 +760,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/serious01.mtn",
                 "name": "夏の湿気は楽器の天敵です。適度な状態で保ってあげましょう",
                 "text": "夏の湿気は楽器の天敵です。適度な状態で保ってあげましょう",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-109.mp3",
@@ -1218,7 +769,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今日は彩さんの誕生日。ステージ上で輝く姿、憧れます！",
                 "text": "今日は彩さんの誕生日。ステージ上で輝く姿、憧れます！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-098.mp3",
@@ -1228,7 +778,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "花火玉は、緻密な手作業で作られます。職人の技、しびれますね！",
                 "text": "花火玉は、緻密な手作業で作られます。職人の技、しびれますね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-110.mp3",
@@ -1238,7 +787,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/odoodo01.mtn",
                 "name": "もしや、水着って毎年買い換えないといけないんですかね……？",
                 "text": "もしや、水着って毎年買い換えないといけないんですかね……？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-111.mp3",
@@ -1248,7 +796,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今日は湊さんの誕生日。持ち運べる加湿器を選びましたよ！",
                 "text": "今日は湊さんの誕生日。持ち運べる加湿器を選びましたよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-104.mp3",
@@ -1258,7 +805,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "今日はイヴさんの誕生日。時代劇のDVD、喜んでくれますかね？",
                 "text": "今日はイヴさんの誕生日。時代劇のDVD、喜んでくれますかね？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-101.mp3",
@@ -1268,7 +814,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "誕生日、ファンの人達にもお祝いしてもらえました……フヘヘ",
                 "text": "誕生日、ファンの人達にもお祝いしてもらえました……フヘヘ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-097.mp3",
@@ -1278,7 +823,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile03.mtn",
                 "name": "ウソをつくのはどうも苦手で……すぐに自分でバラしちゃうんです",
                 "text": "ウソをつくのはどうも苦手で……すぐに自分でバラしちゃうんです",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-125.mp3",
@@ -1288,7 +832,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "クリスマスですね！　赤鼻のトナカイは、ルドルフというそうです",
                 "text": "クリスマスですね！　赤鼻のトナカイは、ルドルフというそうです",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-127.mp3",
@@ -1298,7 +841,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "ついに本番です！　最高のライブを、みなさんにお届けしますよ！",
                 "text": "ついに本番です！　最高のライブを、みなさんにお届けしますよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-119.mp3",
@@ -1308,7 +850,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "ひな人形の五人囃子は、打楽器担当がなんと三人もいるんですよ",
                 "text": "ひな人形の五人囃子は、打楽器担当がなんと三人もいるんですよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-123.mp3",
@@ -1318,7 +859,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "桜の花と梅の花。似ていますが、花びらの形で見分けられるんです",
                 "text": "桜の花と梅の花。似ていますが、花びらの形で見分けられるんです",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-106.mp3",
@@ -1328,7 +868,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "春から音楽を始めた人をよく見かけます。楽しんでほしいですね",
                 "text": "春から音楽を始めた人をよく見かけます。楽しんでほしいですね",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-107.mp3",
@@ -1338,7 +877,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "春の山菜はちょっぴり苦いですけど、それがおいしいんですよね〜",
                 "text": "春の山菜はちょっぴり苦いですけど、それがおいしいんですよね〜",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-108.mp3",
@@ -1348,7 +886,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "今日は千聖さんの誕生日。ティーポット……なんてどうですかね？",
                 "text": "今日は千聖さんの誕生日。ティーポット……なんてどうですかね？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-100.mp3",
@@ -1358,7 +895,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf02.mtn",
                 "name": "早いもので、もう明日が本番ですね！　機材チェックも万全です！",
                 "text": "早いもので、もう明日が本番ですね！　機材チェックも万全です！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-118.mp3",
@@ -1368,7 +904,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf02.mtn",
                 "name": "あけましておめでとうございます！　初詣はもう行きましたか？",
                 "text": "あけましておめでとうございます！　初詣はもう行きましたか？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-120.mp3",
@@ -1378,7 +913,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile04.mtn",
                 "name": "秋の夜長は、機材いじりにぴったりなんですよ……フヘヘ",
                 "text": "秋の夜長は、機材いじりにぴったりなんですよ……フヘヘ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-112.mp3",
@@ -1388,7 +922,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "今日は羽沢さんの誕生日。いつも日菜さんがお世話になっています",
                 "text": "今日は羽沢さんの誕生日。いつも日菜さんがお世話になっています",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-102.mp3",
@@ -1398,7 +931,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "紅葉の季節です。紅葉といえば、メイプルのスネアですね！",
                 "text": "紅葉の季節です。紅葉といえば、メイプルのスネアですね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-113.mp3",
@@ -1408,7 +940,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "芸術の秋です！　我々演劇部も、新たな公演に向けて準備中ですよ",
                 "text": "芸術の秋です！　我々演劇部も、新たな公演に向けて準備中ですよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-114.mp3",
@@ -1418,7 +949,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今年も大変お世話になりました！　よいお年をお迎えください！",
                 "text": "今年も大変お世話になりました！　よいお年をお迎えください！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-128.mp3",
@@ -1428,7 +958,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "パスパレの楽器型クッキーを作りました！　彩さんはマイクです",
                 "text": "パスパレの楽器型クッキーを作りました！　彩さんはマイクです",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-124.mp3",
@@ -1438,7 +967,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今日は薫さんの誕生日。演劇部では、バースデー公演をやりますよ",
                 "text": "今日は薫さんの誕生日。演劇部では、バースデー公演をやりますよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-103.mp3",
@@ -1448,7 +976,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf02.mtn",
                 "name": "今の時間と陽の傾きからして……今年の恵方は、あの方角です！",
                 "text": "今の時間と陽の傾きからして……今年の恵方は、あの方角です！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-121.mp3",
@@ -1458,7 +985,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "冬はドラムを叩くと体が温まります！　夏は地獄ですけどね……",
                 "text": "冬はドラムを叩くと体が温まります！　夏は地獄ですけどね……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-115.mp3",
@@ -1468,7 +994,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf02.mtn",
                 "name": "お鍋っていいですよね。切った具材を入れるだけで完成するので",
                 "text": "お鍋っていいですよね。切った具材を入れるだけで完成するので",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-116.mp3",
@@ -1478,7 +1003,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile03.mtn",
                 "name": "冬はお店に入ると、一瞬でメガネが曇ってしまいます……",
                 "text": "冬はお店に入ると、一瞬でメガネが曇ってしまいます……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-117.mp3",
@@ -1488,7 +1012,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "今日は日菜さんの誕生日。おすすめのシールドを贈ろうと思います",
                 "text": "今日は日菜さんの誕生日。おすすめのシールドを贈ろうと思います",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-099.mp3",
@@ -1498,7 +1021,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/serious01.mtn",
                 "name": "毎年日菜さんにイタズラされるので、今日も警戒しなくては……！",
                 "text": "毎年日菜さんにイタズラされるので、今日も警戒しなくては……！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-126.mp3",
@@ -1508,7 +1030,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "今日は白金さんの誕生日。また演劇部の衣装、お願いしたいです！",
                 "text": "今日は白金さんの誕生日。また演劇部の衣装、お願いしたいです！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-105.mp3",
@@ -1518,7 +1039,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "今年もパスパレで、チョコレートの交換会をやるんですよ",
                 "text": "今年もパスパレで、チョコレートの交換会をやるんですよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-122.mp3",
@@ -1528,9 +1048,8 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "うわぁ、すごく嬉しいです！　フヘヘ……",
-                "text": "うわぁ、すごく嬉しいです！ フヘヘ……",
+                "text": "うわぁ、すごく嬉しいです！　フヘヘ……",
                 "sound": "../../../../sound/voice/system_rip/2019BDRE-MY.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1538,7 +1057,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/surprised01.mtn",
                 "name": "えっ、ここで終わりですか？　続きが気になります",
                 "text": "Oh, we're ending here? I wanted to see where it would go.",
                 "sound": "../../../../sound/voice/system_rip/systemStory_019_1.mp3",
@@ -1548,7 +1066,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/sad01.mtn",
                 "name": "なんとか頑張っていただきたいですが……",
                 "text": "I'll try my best not to disappoint anyone...",
                 "sound": "../../../../sound/voice/system_rip/systemStory_019_2.mp3",
@@ -1558,7 +1075,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "すごくいい感じですね！　ジブンは応援してます",
                 "text": "That was really great! I'm rooting for you!",
                 "sound": "../../../../sound/voice/system_rip/systemStory_019_3.mp3",
@@ -1568,7 +1084,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/kime01.mtn",
                 "name": "よい演奏はよい機材から！",
                 "text": "Good equipment means good shows!",
                 "sound": "../../../../sound/voice/system_rip/systemBand_019_1.mp3",
@@ -1578,7 +1093,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "いい演奏しましょうね",
                 "text": "Let's have a great show!",
                 "sound": "../../../../sound/voice/system_rip/systemBand_019_2.mp3",
@@ -1588,7 +1102,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "バンドって、楽しいですよねっ！",
                 "text": "Being in a band is so much fun!",
                 "sound": "../../../../sound/voice/system_rip/systemBand_019_3.mp3",
@@ -1598,7 +1111,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/serious01.mtn",
                 "name": "夏の湿気は楽器の天敵です。適度な状態で保ってあげましょう",
                 "text": "夏の湿気は楽器の天敵です。適度な状態で保ってあげましょう",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-109.mp3",
@@ -1608,7 +1120,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今日は彩さんの誕生日。ステージ上で輝く姿、憧れます！",
                 "text": "今日は彩さんの誕生日。ステージ上で輝く姿、憧れます！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-098.mp3",
@@ -1618,7 +1129,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "花火玉は、緻密な手作業で作られます。職人の技、しびれますね！",
                 "text": "花火玉は、緻密な手作業で作られます。職人の技、しびれますね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-110.mp3",
@@ -1628,7 +1138,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/odoodo01.mtn",
                 "name": "もしや、水着って毎年買い換えないといけないんですかね……？",
                 "text": "もしや、水着って毎年買い換えないといけないんですかね……？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-111.mp3",
@@ -1638,7 +1147,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今日は湊さんの誕生日。持ち運べる加湿器を選びましたよ！",
                 "text": "今日は湊さんの誕生日。持ち運べる加湿器を選びましたよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-104.mp3",
@@ -1648,7 +1156,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "今日はイヴさんの誕生日。時代劇のDVD、喜んでくれますかね？",
                 "text": "今日はイヴさんの誕生日。時代劇のDVD、喜んでくれますかね？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-101.mp3",
@@ -1658,7 +1165,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "誕生日、ファンの人達にもお祝いしてもらえました……フヘヘ",
                 "text": "誕生日、ファンの人達にもお祝いしてもらえました……フヘヘ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-097.mp3",
@@ -1668,7 +1174,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile03.mtn",
                 "name": "ウソをつくのはどうも苦手で……すぐに自分でバラしちゃうんです",
                 "text": "ウソをつくのはどうも苦手で……すぐに自分でバラしちゃうんです",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-125.mp3",
@@ -1678,7 +1183,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "クリスマスですね！　赤鼻のトナカイは、ルドルフというそうです",
                 "text": "クリスマスですね！　赤鼻のトナカイは、ルドルフというそうです",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-127.mp3",
@@ -1688,7 +1192,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "ついに本番です！　最高のライブを、みなさんにお届けしますよ！",
                 "text": "ついに本番です！　最高のライブを、みなさんにお届けしますよ！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-119.mp3",
@@ -1698,7 +1201,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "ひな人形の五人囃子は、打楽器担当がなんと三人もいるんですよ",
                 "text": "ひな人形の五人囃子は、打楽器担当がなんと三人もいるんですよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-123.mp3",
@@ -1708,7 +1210,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "桜の花と梅の花。似ていますが、花びらの形で見分けられるんです",
                 "text": "桜の花と梅の花。似ていますが、花びらの形で見分けられるんです",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-106.mp3",
@@ -1718,7 +1219,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "春から音楽を始めた人をよく見かけます。楽しんでほしいですね",
                 "text": "春から音楽を始めた人をよく見かけます。楽しんでほしいですね",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-107.mp3",
@@ -1728,7 +1228,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "春の山菜はちょっぴり苦いですけど、それがおいしいんですよね〜",
                 "text": "春の山菜はちょっぴり苦いですけど、それがおいしいんですよね〜",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-108.mp3",
@@ -1738,7 +1237,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "今日は千聖さんの誕生日。ティーポット……なんてどうですかね？",
                 "text": "今日は千聖さんの誕生日。ティーポット……なんてどうですかね？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-100.mp3",
@@ -1748,7 +1246,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf02.mtn",
                 "name": "早いもので、もう明日が本番ですね！　機材チェックも万全です！",
                 "text": "早いもので、もう明日が本番ですね！　機材チェックも万全です！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-118.mp3",
@@ -1758,7 +1255,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf02.mtn",
                 "name": "あけましておめでとうございます！　初詣はもう行きましたか？",
                 "text": "あけましておめでとうございます！　初詣はもう行きましたか？",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-120.mp3",
@@ -1768,7 +1264,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile04.mtn",
                 "name": "秋の夜長は、機材いじりにぴったりなんですよ……フヘヘ",
                 "text": "秋の夜長は、機材いじりにぴったりなんですよ……フヘヘ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-112.mp3",
@@ -1778,7 +1273,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "今日は羽沢さんの誕生日。いつも日菜さんがお世話になっています",
                 "text": "今日は羽沢さんの誕生日。いつも日菜さんがお世話になっています",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-102.mp3",
@@ -1788,7 +1282,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "紅葉の季節です。紅葉といえば、メイプルのスネアですね！",
                 "text": "紅葉の季節です。紅葉といえば、メイプルのスネアですね！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-113.mp3",
@@ -1798,7 +1291,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "芸術の秋です！　我々演劇部も、新たな公演に向けて準備中ですよ",
                 "text": "芸術の秋です！　我々演劇部も、新たな公演に向けて準備中ですよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-114.mp3",
@@ -1808,7 +1300,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今年も大変お世話になりました！　よいお年をお迎えください！",
                 "text": "今年も大変お世話になりました！　よいお年をお迎えください！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-128.mp3",
@@ -1818,7 +1309,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "パスパレの楽器型クッキーを作りました！　彩さんはマイクです",
                 "text": "パスパレの楽器型クッキーを作りました！　彩さんはマイクです",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-124.mp3",
@@ -1828,7 +1318,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今日は薫さんの誕生日。演劇部では、バースデー公演をやりますよ",
                 "text": "今日は薫さんの誕生日。演劇部では、バースデー公演をやりますよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-103.mp3",
@@ -1838,7 +1327,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf02.mtn",
                 "name": "今の時間と陽の傾きからして……今年の恵方は、あの方角です！",
                 "text": "今の時間と陽の傾きからして……今年の恵方は、あの方角です！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-121.mp3",
@@ -1848,7 +1336,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "冬はドラムを叩くと体が温まります！　夏は地獄ですけどね……",
                 "text": "冬はドラムを叩くと体が温まります！　夏は地獄ですけどね……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-115.mp3",
@@ -1858,7 +1345,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf02.mtn",
                 "name": "お鍋っていいですよね。切った具材を入れるだけで完成するので",
                 "text": "お鍋っていいですよね。切った具材を入れるだけで完成するので",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-116.mp3",
@@ -1868,7 +1354,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile03.mtn",
                 "name": "冬はお店に入ると、一瞬でメガネが曇ってしまいます……",
                 "text": "冬はお店に入ると、一瞬でメガネが曇ってしまいます……",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-117.mp3",
@@ -1878,7 +1363,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "今日は日菜さんの誕生日。おすすめのシールドを贈ろうと思います",
                 "text": "今日は日菜さんの誕生日。おすすめのシールドを贈ろうと思います",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-099.mp3",
@@ -1888,7 +1372,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/serious01.mtn",
                 "name": "毎年日菜さんにイタズラされるので、今日も警戒しなくては……！",
                 "text": "毎年日菜さんにイタズラされるので、今日も警戒しなくては……！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-126.mp3",
@@ -1898,7 +1381,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/nf05.mtn",
                 "name": "今日は白金さんの誕生日。また演劇部の衣装、お願いしたいです！",
                 "text": "今日は白金さんの誕生日。また演劇部の衣装、お願いしたいです！",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-105.mp3",
@@ -1908,7 +1390,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "今年もパスパレで、チョコレートの交換会をやるんですよ",
                 "text": "今年もパスパレで、チョコレートの交換会をやるんですよ",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-PP-122.mp3",
@@ -1918,9 +1399,8 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "うわぁ、すごく嬉しいです！　フヘヘ……",
-                "text": "うわぁ、すごく嬉しいです！　フヘヘ……",
+                "text": "Wow! This is great! Huhehe...",
                 "sound": "../../../../sound/voice/system_rip/2019BDRE-MY.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1930,7 +1410,6 @@
         ],
         "start": [
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "今日も1日お疲れ様です！",
                 "text": "今日も1日お疲れ様です！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_019_1.mp3",
@@ -1940,7 +1419,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今日も元気に頑張りましょう！",
                 "text": "今日も元気に頑張りましょう！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_019_2.mp3",
@@ -1950,7 +1428,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "さぁ、練習はじめるッス！",
                 "text": "さぁ、練習はじめるッス！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_019_3.mp3",
@@ -1960,7 +1437,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "今日も1日お疲れ様です！",
                 "text": "今天一天也辛苦了！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_019_1.mp3",
@@ -1970,7 +1446,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今日も元気に頑張りましょう！",
                 "text": "今天也精神饱满地加油吧！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_019_2.mp3",
@@ -1980,7 +1455,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "さぁ、練習はじめるッス！",
                 "text": "来，开始练习吧！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_019_3.mp3",
@@ -1990,7 +1464,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "今日も1日お疲れ様です！",
                 "text": "今天一天也辛苦了！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_019_1.mp3",
@@ -2000,7 +1473,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今日も元気に頑張りましょう！",
                 "text": "今天也打起精神好好加油吧！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_019_2.mp3",
@@ -2010,7 +1482,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "さぁ、練習はじめるッス！",
                 "text": "好，練習要開始囉！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_019_3.mp3",
@@ -2020,7 +1491,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile01.mtn",
                 "name": "今日も1日お疲れ様です！",
                 "text": "Good work today!",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_019_1.mp3",
@@ -2030,7 +1500,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/smile02.mtn",
                 "name": "今日も元気に頑張りましょう！",
                 "text": "Let's work hard today!",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_019_2.mp3",
@@ -2040,7 +1509,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/019_general_rip/gattsu01.mtn",
                 "name": "さぁ、練習はじめるッス！",
                 "text": "All right, it's practice time!",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_019_3.mp3",

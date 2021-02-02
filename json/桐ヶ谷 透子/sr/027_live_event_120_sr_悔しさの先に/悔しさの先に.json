@@ -1,219 +1,9 @@
 {
-    "type": "Live2D Model Setting",
-    "name": "悔しさの先に",
-    "model": "../../../../live2d/chara/027_live_event_120_sr_rip/toko_event120.moc",
-    "textures": [
-        "../../../../live2d/chara/027_live_event_120_sr_rip/texture_00.png",
-        "../../../../live2d/chara/027_live_event_120_sr_rip/texture_01.png"
-    ],
-    "physics": "../../../../live2d/chara/027_live_event_120_sr_rip/toko_event120.physics",
-    "expressions": [
-        {
-            "name": "angry01",
-            "file": "../../../../live2d/chara/027_general_rip/angry01.exp.json"
-        },
-        {
-            "name": "cry01",
-            "file": "../../../../live2d/chara/027_general_rip/cry01.exp.json"
-        },
-        {
-            "name": "default",
-            "file": "../../../../live2d/chara/027_general_rip/default.exp.json"
-        },
-        {
-            "name": "idle01",
-            "file": "../../../../live2d/chara/027_general_rip/idle01.exp.json"
-        },
-        {
-            "name": "kime01",
-            "file": "../../../../live2d/chara/027_general_rip/kime01.exp.json"
-        },
-        {
-            "name": "pui01",
-            "file": "../../../../live2d/chara/027_general_rip/pui01.exp.json"
-        },
-        {
-            "name": "sad01",
-            "file": "../../../../live2d/chara/027_general_rip/sad01.exp.json"
-        },
-        {
-            "name": "serious01",
-            "file": "../../../../live2d/chara/027_general_rip/serious01.exp.json"
-        },
-        {
-            "name": "smile01",
-            "file": "../../../../live2d/chara/027_general_rip/smile01.exp.json"
-        },
-        {
-            "name": "smile02",
-            "file": "../../../../live2d/chara/027_general_rip/smile02.exp.json"
-        },
-        {
-            "name": "surprised01",
-            "file": "../../../../live2d/chara/027_general_rip/surprised01.exp.json"
-        }
-    ],
+    "model": "../../../..//chara//",
+    "physics": "../../../..//chara//",
     "motions": {
-        "angry": [
-            {
-                "file": "../../../../live2d/chara/027_general_rip/angry01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "cry": [
-            {
-                "file": "../../../../live2d/chara/027_general_rip/cry01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "idle": [
-            {
-                "file": "../../../../live2d/chara/027_general_rip/idle01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "kime": [
-            {
-                "file": "../../../../live2d/chara/027_general_rip/kime01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nf": [
-            {
-                "file": "../../../../live2d/chara/027_general_rip/nf01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/027_general_rip/nf02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/027_general_rip/nf03.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/027_general_rip/nf04.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/027_general_rip/nf05.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nf_left": [
-            {
-                "file": "../../../../live2d/chara/027_general_rip/nf_left01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nf_right": [
-            {
-                "file": "../../../../live2d/chara/027_general_rip/nf_right01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nnf": [
-            {
-                "file": "../../../../live2d/chara/027_general_rip/nnf01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/027_general_rip/nnf02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/027_general_rip/nnf03.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/027_general_rip/nnf04.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/027_general_rip/nnf05.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nnf_left": [
-            {
-                "file": "../../../../live2d/chara/027_general_rip/nnf_left01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "nnf_right": [
-            {
-                "file": "../../../../live2d/chara/027_general_rip/nnf_right01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "pui": [
-            {
-                "file": "../../../../live2d/chara/027_general_rip/pui01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "sad": [
-            {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "serious": [
-            {
-                "file": "../../../../live2d/chara/027_general_rip/serious01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "smile": [
-            {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "surprised": [
-            {
-                "file": "../../../../live2d/chara/027_general_rip/surprised01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "wink": [
-            {
-                "file": "../../../../live2d/chara/027_general_rip/wink01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
         "tap": [
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "ハッピーバースデー！　今日はシロが主役だからね！",
                 "text": "ハッピーバースデー！　今日はシロが主役だからね！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027026.mp3",
@@ -223,7 +13,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "今日あたしの誕生日なんだ！　パーティするからみんな来て！",
                 "text": "今日あたしの誕生日なんだ！　パーティするからみんな来て！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027.mp3",
@@ -233,7 +22,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "ハッピーバースデー、ななみ！　また衣装作る時はよろしく～！",
                 "text": "ハッピーバースデー、ななみ！　また衣装作る時はよろしく～！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027028.mp3",
@@ -243,7 +31,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "ハッピーバースデー、ふーすけ！　頼りにしてるよ、リーダー！",
                 "text": "ハッピーバースデー、ふーすけ！　頼りにしてるよ、リーダー！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027029.mp3",
@@ -253,7 +40,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "ハッピーバースデー、ルイ！　ほらほらもっと喜びなって～！",
                 "text": "ハッピーバースデー、ルイ！　ほらほらもっと喜びなって～！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027030.mp3",
@@ -263,7 +49,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "春はおばあさまが、野点にめっちゃ連れてこうとするんだよね……",
                 "text": "春はおばあさまが、野点にめっちゃ連れてこうとするんだよね……",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_027_1.mp3",
@@ -273,7 +58,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "満開の桜って超映えるよね～。見てると超テンション上がる！",
                 "text": "満開の桜って超映えるよね～。見てると超テンション上がる！",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_027_2.mp3",
@@ -283,7 +67,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/nf03.mtn",
                 "name": "この前シロが桜見てボーっとしてたんだ。歌詞考えてたのかな？",
                 "text": "この前シロが桜見てボーっとしてたんだ。歌詞考えてたのかな？",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_027_3.mp3",
@@ -293,7 +76,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "超暑くね！？　暑すぎて逆にテンション上がってきた！",
                 "text": "超暑くね！？　暑すぎて逆にテンション上がってきた！",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_027_1.mp3",
@@ -303,7 +85,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/angry01.mtn",
                 "name": "夏の太陽がんばりすぎじゃね？　冬にがんばってほしいんだけど！",
                 "text": "夏の太陽がんばりすぎじゃね？　冬にがんばってほしいんだけど！",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_027_2.mp3",
@@ -313,7 +94,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "夏休みは毎年別荘行くんだ。近くのアウトレット行くの超楽しみ！",
                 "text": "夏休みは毎年別荘行くんだ。近くのアウトレット行くの超楽しみ！",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_027_3.mp3",
@@ -323,7 +103,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "あたし的に今年の秋は『焼き芋』が来ると思うんだよね～",
                 "text": "あたし的に今年の秋は『焼き芋』が来ると思うんだよね～",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_027_1.mp3",
@@ -333,7 +112,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/nf05.mtn",
                 "name": "今年の秋は、音楽の秋で決まりっしょ！",
                 "text": "今年の秋は、音楽の秋で決まりっしょ！",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_027_2.mp3",
@@ -343,7 +121,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "うちの庭、イチョウの木があるから、落ち葉半端ないんだよねー",
                 "text": "うちの庭、イチョウの木があるから、落ち葉半端ないんだよねー",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_027_3.mp3",
@@ -353,7 +130,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "う〜、寒くて指凍る。冬は外でギター弾くのマジ無理だわ……",
                 "text": "う〜、寒くて指凍る。冬は外でギター弾くのマジ無理だわ……",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_027_1.mp3",
@@ -363,7 +139,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/nf03.mtn",
                 "name": "雪で作るなら……あたしらの雪像とか？　なんかカッコよくね？",
                 "text": "雪で作るなら……あたしらの雪像とか？　なんかカッコよくね？",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_027_2.mp3",
@@ -373,7 +148,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "全身にカイロ貼ったらマジ暑すぎ……アイス食べたくなってきた！",
                 "text": "全身にカイロ貼ったらマジ暑すぎ……アイス食べたくなってきた！",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_027_3.mp3",
@@ -383,7 +157,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "明日ライブじゃん！　楽しみすぎてヤバいんだけど！",
                 "text": "明日ライブじゃん！　楽しみすぎてヤバいんだけど！",
                 "sound": "../../../../sound/voice/system_rip/systemBeforeRealLive_027.mp3",
@@ -393,7 +166,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "今日のライブはマジ伝説になるよ！",
                 "text": "今日のライブはマジ伝説になるよ！",
                 "sound": "../../../../sound/voice/system_rip/systemRealLive_027.mp3",
@@ -403,7 +175,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/surprised01.mtn",
                 "name": "あけおめメッセージ、めっちゃ来て、スマホ固まっちゃった……",
                 "text": "あけおめメッセージ、めっちゃ来て、スマホ固まっちゃった……",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_1.mp3",
@@ -413,7 +184,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "節分になると毎年玄関先にイワシの頭を飾るんだよね。超不気味！",
                 "text": "節分になると毎年玄関先にイワシの頭を飾るんだよね。超不気味！",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_2.mp3",
@@ -423,7 +193,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "見て！　友チョコめっちゃ交換するから専用の袋持ってきたんだ～",
                 "text": "見て！　友チョコめっちゃ交換するから専用の袋持ってきたんだ～",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_3.mp3",
@@ -433,7 +202,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "ひな人形デコろうとしたら、めっちゃ怒られた～……",
                 "text": "ひな人形デコろうとしたら、めっちゃ怒られた～……",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_4.mp3",
@@ -443,7 +211,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "今日ルイがお返し渡してるの見たんだ～。ちょっと意外かも！",
                 "text": "今日ルイがお返し渡してるの見たんだ～。ちょっと意外かも！",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_5.mp3",
@@ -453,7 +220,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "SNS引退しまーす！　……って言ったらマジ大騒ぎになった",
                 "text": "SNS引退しまーす！　……って言ったらマジ大騒ぎになった",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_6.mp3",
@@ -463,7 +229,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "あたしの仮装におばあさまが驚いちゃってさ、めっちゃ怒られた〜",
                 "text": "あたしの仮装におばあさまが驚いちゃってさ、めっちゃ怒られた〜",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_7.mp3",
@@ -473,7 +238,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "クリスマスのプレゼント交換、100人でやったら超面白そう！",
                 "text": "クリスマスのプレゼント交換、100人でやったら超面白そう！",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_8.mp3",
@@ -483,7 +247,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "今年がもう終わりとか早すぎ！　マジ秒だったんだけど！",
                 "text": "今年がもう終わりとか早すぎ！　マジ秒だったんだけど！",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_9.mp3",
@@ -493,7 +256,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "あたしのギター、ちょっと珍しい形じゃん？　気に入ってるんだー",
                 "text": "あたしのギター、ちょっと珍しい形じゃん？　気に入ってるんだー",
                 "sound": "../../../../sound/voice/system_rip/systemStory_027_1.mp3",
@@ -503,7 +265,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/nf02.mtn",
                 "name": "あたしらの練習場所は、ななみの家のアトリエなんだよね",
                 "text": "あたしらの練習場所は、ななみの家のアトリエなんだよね",
                 "sound": "../../../../sound/voice/system_rip/systemStory_027_2.mp3",
@@ -513,7 +274,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "あ、今服のデザイン思いついた！　宇宙レベルにヤバいやつ！",
                 "text": "あ、今服のデザイン思いついた！　宇宙レベルにヤバいやつ！",
                 "sound": "../../../../sound/voice/system_rip/systemStory_027_3.mp3",
@@ -523,7 +283,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "準備おっけー！　いつでも始められるよ！",
                 "text": "準備おっけー！　いつでも始められるよ！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_027_1.mp3",
@@ -533,7 +292,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "準備おっけー！　いつでも……あれ？　あたしのピックどこ！？",
                 "text": "準備おっけー！　いつでも……あれ？　あたしのピックどこ！？",
                 "sound": "../../../../sound/voice/system_rip/systemBand_027_2.mp3",
@@ -543,7 +301,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/kime01.mtn",
                 "name": "ライブでも練習でも、やるならマジでやんないとね！",
                 "text": "ライブでも練習でも、やるならマジでやんないとね！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_027_3.mp3",
@@ -553,7 +310,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "ハッピーバースデー！　今日はシロが主役だからね！",
                 "text": "ハッピーバースデー！　今日はシロが主役だからね！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027026.mp3",
@@ -563,7 +319,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "今日あたしの誕生日なんだ！　パーティするからみんな来て！",
                 "text": "今日あたしの誕生日なんだ！　パーティするからみんな来て！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027.mp3",
@@ -573,7 +328,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "ハッピーバースデー、ななみ！　また衣装作る時はよろしく～！",
                 "text": "ハッピーバースデー、ななみ！　また衣装作る時はよろしく～！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027028.mp3",
@@ -583,7 +337,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "ハッピーバースデー、ふーすけ！　頼りにしてるよ、リーダー！",
                 "text": "ハッピーバースデー、ふーすけ！　頼りにしてるよ、リーダー！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027029.mp3",
@@ -593,7 +346,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "ハッピーバースデー、ルイ！　ほらほらもっと喜びなって～！",
                 "text": "ハッピーバースデー、ルイ！　ほらほらもっと喜びなって～！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027030.mp3",
@@ -603,7 +355,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "春はおばあさまが、野点にめっちゃ連れてこうとするんだよね……",
                 "text": "春はおばあさまが、野点にめっちゃ連れてこうとするんだよね……",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_027_1.mp3",
@@ -613,7 +364,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "満開の桜って超映えるよね～。見てると超テンション上がる！",
                 "text": "満開の桜って超映えるよね～。見てると超テンション上がる！",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_027_2.mp3",
@@ -623,7 +373,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/nf03.mtn",
                 "name": "この前シロが桜見てボーっとしてたんだ。歌詞考えてたのかな？",
                 "text": "この前シロが桜見てボーっとしてたんだ。歌詞考えてたのかな？",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_027_3.mp3",
@@ -633,7 +382,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "超暑くね！？　暑すぎて逆にテンション上がってきた！",
                 "text": "超暑くね！？　暑すぎて逆にテンション上がってきた！",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_027_1.mp3",
@@ -643,7 +391,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/angry01.mtn",
                 "name": "夏の太陽がんばりすぎじゃね？　冬にがんばってほしいんだけど！",
                 "text": "夏の太陽がんばりすぎじゃね？　冬にがんばってほしいんだけど！",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_027_2.mp3",
@@ -653,7 +400,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "夏休みは毎年別荘行くんだ。近くのアウトレット行くの超楽しみ！",
                 "text": "夏休みは毎年別荘行くんだ。近くのアウトレット行くの超楽しみ！",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_027_3.mp3",
@@ -663,7 +409,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "あたし的に今年の秋は『焼き芋』が来ると思うんだよね～",
                 "text": "あたし的に今年の秋は『焼き芋』が来ると思うんだよね～",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_027_1.mp3",
@@ -673,7 +418,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/nf05.mtn",
                 "name": "今年の秋は、音楽の秋で決まりっしょ！",
                 "text": "今年の秋は、音楽の秋で決まりっしょ！",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_027_2.mp3",
@@ -683,7 +427,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "うちの庭、イチョウの木があるから、落ち葉半端ないんだよねー",
                 "text": "うちの庭、イチョウの木があるから、落ち葉半端ないんだよねー",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_027_3.mp3",
@@ -693,7 +436,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "う〜、寒くて指凍る。冬は外でギター弾くのマジ無理だわ……",
                 "text": "う〜、寒くて指凍る。冬は外でギター弾くのマジ無理だわ……",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_027_1.mp3",
@@ -703,7 +445,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/nf03.mtn",
                 "name": "雪で作るなら……あたしらの雪像とか？　なんかカッコよくね？",
                 "text": "雪で作るなら……あたしらの雪像とか？　なんかカッコよくね？",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_027_2.mp3",
@@ -713,7 +454,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "全身にカイロ貼ったらマジ暑すぎ……アイス食べたくなってきた！",
                 "text": "全身にカイロ貼ったらマジ暑すぎ……アイス食べたくなってきた！",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_027_3.mp3",
@@ -723,7 +463,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "明日ライブじゃん！　楽しみすぎてヤバいんだけど！",
                 "text": "明日ライブじゃん！　楽しみすぎてヤバいんだけど！",
                 "sound": "../../../../sound/voice/system_rip/systemBeforeRealLive_027.mp3",
@@ -733,7 +472,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "今日のライブはマジ伝説になるよ！",
                 "text": "今日のライブはマジ伝説になるよ！",
                 "sound": "../../../../sound/voice/system_rip/systemRealLive_027.mp3",
@@ -743,7 +481,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/surprised01.mtn",
                 "name": "あけおめメッセージ、めっちゃ来て、スマホ固まっちゃった……",
                 "text": "あけおめメッセージ、めっちゃ来て、スマホ固まっちゃった……",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_1.mp3",
@@ -753,7 +490,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "節分になると毎年玄関先にイワシの頭を飾るんだよね。超不気味！",
                 "text": "節分になると毎年玄関先にイワシの頭を飾るんだよね。超不気味！",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_2.mp3",
@@ -763,7 +499,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "見て！　友チョコめっちゃ交換するから専用の袋持ってきたんだ～",
                 "text": "見て！　友チョコめっちゃ交換するから専用の袋持ってきたんだ～",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_3.mp3",
@@ -773,7 +508,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "ひな人形デコろうとしたら、めっちゃ怒られた～……",
                 "text": "ひな人形デコろうとしたら、めっちゃ怒られた～……",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_4.mp3",
@@ -783,7 +517,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "今日ルイがお返し渡してるの見たんだ～。ちょっと意外かも！",
                 "text": "今日ルイがお返し渡してるの見たんだ～。ちょっと意外かも！",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_5.mp3",
@@ -793,7 +526,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "SNS引退しまーす！　……って言ったらマジ大騒ぎになった",
                 "text": "SNS引退しまーす！　……って言ったらマジ大騒ぎになった",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_6.mp3",
@@ -803,7 +535,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "あたしの仮装におばあさまが驚いちゃってさ、めっちゃ怒られた〜",
                 "text": "あたしの仮装におばあさまが驚いちゃってさ、めっちゃ怒られた〜",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_7.mp3",
@@ -813,7 +544,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "クリスマスのプレゼント交換、100人でやったら超面白そう！",
                 "text": "クリスマスのプレゼント交換、100人でやったら超面白そう！",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_8.mp3",
@@ -823,7 +553,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "今年がもう終わりとか早すぎ！　マジ秒だったんだけど！",
                 "text": "今年がもう終わりとか早すぎ！　マジ秒だったんだけど！",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_9.mp3",
@@ -833,7 +562,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "あたしのギター、ちょっと珍しい形じゃん？　気に入ってるんだー",
                 "text": "あたしのギター、ちょっと珍しい形じゃん？　気に入ってるんだー",
                 "sound": "../../../../sound/voice/system_rip/systemStory_027_1.mp3",
@@ -843,7 +571,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/nf02.mtn",
                 "name": "あたしらの練習場所は、ななみの家のアトリエなんだよね",
                 "text": "あたしらの練習場所は、ななみの家のアトリエなんだよね",
                 "sound": "../../../../sound/voice/system_rip/systemStory_027_2.mp3",
@@ -853,7 +580,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "あ、今服のデザイン思いついた！　宇宙レベルにヤバいやつ！",
                 "text": "あ、今服のデザイン思いついた！　宇宙レベルにヤバいやつ！",
                 "sound": "../../../../sound/voice/system_rip/systemStory_027_3.mp3",
@@ -863,7 +589,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "準備おっけー！　いつでも始められるよ！",
                 "text": "準備おっけー！　いつでも始められるよ！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_027_1.mp3",
@@ -873,7 +598,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "準備おっけー！　いつでも……あれ？　あたしのピックどこ！？",
                 "text": "準備おっけー！　いつでも……あれ？　あたしのピックどこ！？",
                 "sound": "../../../../sound/voice/system_rip/systemBand_027_2.mp3",
@@ -883,7 +607,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/kime01.mtn",
                 "name": "ライブでも練習でも、やるならマジでやんないとね！",
                 "text": "ライブでも練習でも、やるならマジでやんないとね！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_027_3.mp3",
@@ -893,7 +616,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "ハッピーバースデー！　今日はシロが主役だからね！",
                 "text": "ハッピーバースデー！　今日はシロが主役だからね！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027026.mp3",
@@ -903,7 +625,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "今日あたしの誕生日なんだ！　パーティするからみんな来て！",
                 "text": "今日あたしの誕生日なんだ！　パーティするからみんな来て！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027.mp3",
@@ -913,7 +634,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "ハッピーバースデー、ななみ！　また衣装作る時はよろしく～！",
                 "text": "ハッピーバースデー、ななみ！　また衣装作る時はよろしく～！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027028.mp3",
@@ -923,7 +643,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "ハッピーバースデー、ふーすけ！　頼りにしてるよ、リーダー！",
                 "text": "ハッピーバースデー、ふーすけ！　頼りにしてるよ、リーダー！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027029.mp3",
@@ -933,7 +652,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "ハッピーバースデー、ルイ！　ほらほらもっと喜びなって～！",
                 "text": "ハッピーバースデー、ルイ！　ほらほらもっと喜びなって～！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027030.mp3",
@@ -943,7 +661,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "春はおばあさまが、野点にめっちゃ連れてこうとするんだよね……",
                 "text": "春天時，奶奶總會很想帶我去戶外品茶會呢……",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_027_1.mp3",
@@ -953,7 +670,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "満開の桜って超映えるよね～。見てると超テンション上がる！",
                 "text": "滿開的櫻花超美的對吧～。光看就讓人非常興奮！",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_027_2.mp3",
@@ -963,7 +679,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/nf03.mtn",
                 "name": "この前シロが桜見てボーっとしてたんだ。歌詞考えてたのかな？",
                 "text": "之前小白看櫻花看得好入神。是在想歌詞嗎？",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_027_3.mp3",
@@ -973,7 +688,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "超暑くね！？　暑すぎて逆にテンション上がってきた！",
                 "text": "不覺得超熱的嗎！？熱到太超過反而讓人嗨起來了！",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_027_1.mp3",
@@ -983,7 +697,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/angry01.mtn",
                 "name": "夏の太陽がんばりすぎじゃね？　冬にがんばってほしいんだけど！",
                 "text": "夏天的太陽不會太努力嗎？希望他冬天時可以再加點油欸！",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_027_2.mp3",
@@ -993,7 +706,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "夏休みは毎年別荘行くんだ。近くのアウトレット行くの超楽しみ！",
                 "text": "每年暑假都會去別墅度假哦。好期待去附近的OUTLET逛街！",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_027_3.mp3",
@@ -1003,7 +715,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "あたし的に今年の秋は『焼き芋』が来ると思うんだよね～",
                 "text": "人家個人認為，今年秋季流行趨勢是「烤地瓜」哦～",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_027_1.mp3",
@@ -1013,7 +724,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/nf05.mtn",
                 "name": "今年の秋は、音楽の秋で決まりっしょ！",
                 "text": "就決定今年的秋天是音樂之秋了！",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_027_2.mp3",
@@ -1023,7 +733,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "うちの庭、イチョウの木があるから、落ち葉半端ないんだよねー",
                 "text": "我家的庭院裡頭有種銀杏，落葉的時候超級可怕的～",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_027_3.mp3",
@@ -1033,7 +742,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "う〜、寒くて指凍る。冬は外でギター弾くのマジ無理だわ……",
                 "text": "嗚～手指冷到要結凍。辦不到啦……在冬天的戶外彈吉他",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_027_1.mp3",
@@ -1043,7 +751,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/nf03.mtn",
                 "name": "雪で作るなら……あたしらの雪像とか？　なんかカッコよくね？",
                 "text": "要用雪創作……做幾尊我們的雪像怎麼樣啊？不覺得很帥嗎？",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_027_2.mp3",
@@ -1053,7 +760,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "全身にカイロ貼ったらマジ暑すぎ……アイス食べたくなってきた！",
                 "text": "全身都貼滿暖暖包之後超熱的……好想吃冰！",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_027_3.mp3",
@@ -1063,7 +769,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "明日ライブじゃん！　楽しみすぎてヤバいんだけど！",
                 "text": "明日ライブじゃん！　楽しみすぎてヤバいんだけど！",
                 "sound": "../../../../sound/voice/system_rip/systemBeforeRealLive_027.mp3",
@@ -1073,7 +778,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "今日のライブはマジ伝説になるよ！",
                 "text": "今日のライブはマジ伝説になるよ！",
                 "sound": "../../../../sound/voice/system_rip/systemRealLive_027.mp3",
@@ -1083,7 +787,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/surprised01.mtn",
                 "name": "あけおめメッセージ、めっちゃ来て、スマホ固まっちゃった……",
                 "text": "あけおめメッセージ、めっちゃ来て、スマホ固まっちゃった……",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_1.mp3",
@@ -1093,7 +796,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "節分になると毎年玄関先にイワシの頭を飾るんだよね。超不気味！",
                 "text": "節分になると毎年玄関先にイワシの頭を飾るんだよね。超不気味！",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_2.mp3",
@@ -1103,7 +805,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "見て！　友チョコめっちゃ交換するから専用の袋持ってきたんだ～",
                 "text": "見て！　友チョコめっちゃ交換するから専用の袋持ってきたんだ～",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_3.mp3",
@@ -1113,7 +814,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "ひな人形デコろうとしたら、めっちゃ怒られた～……",
                 "text": "ひな人形デコろうとしたら、めっちゃ怒られた～……",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_4.mp3",
@@ -1123,7 +823,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "今日ルイがお返し渡してるの見たんだ～。ちょっと意外かも！",
                 "text": "今日ルイがお返し渡してるの見たんだ～。ちょっと意外かも！",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_5.mp3",
@@ -1133,7 +832,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "SNS引退しまーす！　……って言ったらマジ大騒ぎになった",
                 "text": "SNS引退しまーす！　……って言ったらマジ大騒ぎになった",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_6.mp3",
@@ -1143,7 +841,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "あたしの仮装におばあさまが驚いちゃってさ、めっちゃ怒られた〜",
                 "text": "あたしの仮装におばあさまが驚いちゃってさ、めっちゃ怒られた〜",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_7.mp3",
@@ -1153,7 +850,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "クリスマスのプレゼント交換、100人でやったら超面白そう！",
                 "text": "クリスマスのプレゼント交換、100人でやったら超面白そう！",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_8.mp3",
@@ -1163,7 +859,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "今年がもう終わりとか早すぎ！　マジ秒だったんだけど！",
                 "text": "今年がもう終わりとか早すぎ！　マジ秒だったんだけど！",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_9.mp3",
@@ -1173,7 +868,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "あたしのギター、ちょっと珍しい形じゃん？　気に入ってるんだー",
                 "text": "人家的吉他，外型是不是很少見啊？人家超喜歡的～",
                 "sound": "../../../../sound/voice/system_rip/systemStory_027_1.mp3",
@@ -1183,7 +877,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/nf02.mtn",
                 "name": "あたしらの練習場所は、ななみの家のアトリエなんだよね",
                 "text": "我們的練習地點可是七深家的工作坊唷",
                 "sound": "../../../../sound/voice/system_rip/systemStory_027_2.mp3",
@@ -1193,7 +886,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "あ、今服のデザイン思いついた！　宇宙レベルにヤバいやつ！",
                 "text": "啊，我剛才靈光一閃想到了服裝的設計！宇宙好看的那種！",
                 "sound": "../../../../sound/voice/system_rip/systemStory_027_3.mp3",
@@ -1203,7 +895,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "準備おっけー！　いつでも始められるよ！",
                 "text": "準備OK！隨時都可以開始喔！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_027_1.mp3",
@@ -1213,7 +904,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "準備おっけー！　いつでも……あれ？　あたしのピックどこ！？",
                 "text": "準備OK！隨時都……咦？人家的撥片去哪了！？",
                 "sound": "../../../../sound/voice/system_rip/systemBand_027_2.mp3",
@@ -1223,7 +913,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/kime01.mtn",
                 "name": "ライブでも練習でも、やるならマジでやんないとね！",
                 "text": "無論是練習或者LIVE，要做的話都要發揮全力奉陪呢！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_027_3.mp3",
@@ -1233,7 +922,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "ハッピーバースデー！　今日はシロが主役だからね！",
                 "text": "ハッピーバースデー！　今日はシロが主役だからね！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027026.mp3",
@@ -1243,7 +931,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "今日あたしの誕生日なんだ！　パーティするからみんな来て！",
                 "text": "今日あたしの誕生日なんだ！　パーティするからみんな来て！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027.mp3",
@@ -1253,7 +940,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "ハッピーバースデー、ななみ！　また衣装作る時はよろしく～！",
                 "text": "ハッピーバースデー、ななみ！　また衣装作る時はよろしく～！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027028.mp3",
@@ -1263,7 +949,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "ハッピーバースデー、ふーすけ！　頼りにしてるよ、リーダー！",
                 "text": "ハッピーバースデー、ふーすけ！　頼りにしてるよ、リーダー！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027029.mp3",
@@ -1273,7 +958,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "ハッピーバースデー、ルイ！　ほらほらもっと喜びなって～！",
                 "text": "ハッピーバースデー、ルイ！　ほらほらもっと喜びなって～！",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_027030.mp3",
@@ -1283,7 +967,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "春はおばあさまが、野点にめっちゃ連れてこうとするんだよね……",
                 "text": "春はおばあさまが、野点にめっちゃ連れてこうとするんだよね……",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_027_1.mp3",
@@ -1293,7 +976,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "満開の桜って超映えるよね～。見てると超テンション上がる！",
                 "text": "満開の桜って超映えるよね～。見てると超テンション上がる！",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_027_2.mp3",
@@ -1303,7 +985,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/nf03.mtn",
                 "name": "この前シロが桜見てボーっとしてたんだ。歌詞考えてたのかな？",
                 "text": "この前シロが桜見てボーっとしてたんだ。歌詞考えてたのかな？",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_027_3.mp3",
@@ -1313,7 +994,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "超暑くね！？　暑すぎて逆にテンション上がってきた！",
                 "text": "超暑くね！？　暑すぎて逆にテンション上がってきた！",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_027_1.mp3",
@@ -1323,7 +1003,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/angry01.mtn",
                 "name": "夏の太陽がんばりすぎじゃね？　冬にがんばってほしいんだけど！",
                 "text": "夏の太陽がんばりすぎじゃね？　冬にがんばってほしいんだけど！",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_027_2.mp3",
@@ -1333,7 +1012,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "夏休みは毎年別荘行くんだ。近くのアウトレット行くの超楽しみ！",
                 "text": "夏休みは毎年別荘行くんだ。近くのアウトレット行くの超楽しみ！",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_027_3.mp3",
@@ -1343,7 +1021,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "あたし的に今年の秋は『焼き芋』が来ると思うんだよね～",
                 "text": "あたし的に今年の秋は『焼き芋』が来ると思うんだよね～",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_027_1.mp3",
@@ -1353,7 +1030,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/nf05.mtn",
                 "name": "今年の秋は、音楽の秋で決まりっしょ！",
                 "text": "今年の秋は、音楽の秋で決まりっしょ！",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_027_2.mp3",
@@ -1363,7 +1039,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "うちの庭、イチョウの木があるから、落ち葉半端ないんだよねー",
                 "text": "うちの庭、イチョウの木があるから、落ち葉半端ないんだよねー",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_027_3.mp3",
@@ -1373,7 +1048,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "う〜、寒くて指凍る。冬は外でギター弾くのマジ無理だわ……",
                 "text": "う〜、寒くて指凍る。冬は外でギター弾くのマジ無理だわ……",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_027_1.mp3",
@@ -1383,7 +1057,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/nf03.mtn",
                 "name": "雪で作るなら……あたしらの雪像とか？　なんかカッコよくね？",
                 "text": "雪で作るなら……あたしらの雪像とか？　なんかカッコよくね？",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_027_2.mp3",
@@ -1393,7 +1066,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "全身にカイロ貼ったらマジ暑すぎ……アイス食べたくなってきた！",
                 "text": "全身にカイロ貼ったらマジ暑すぎ……アイス食べたくなってきた！",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_027_3.mp3",
@@ -1403,7 +1075,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "明日ライブじゃん！　楽しみすぎてヤバいんだけど！",
                 "text": "明日ライブじゃん！　楽しみすぎてヤバいんだけど！",
                 "sound": "../../../../sound/voice/system_rip/systemBeforeRealLive_027.mp3",
@@ -1413,7 +1084,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "今日のライブはマジ伝説になるよ！",
                 "text": "今日のライブはマジ伝説になるよ！",
                 "sound": "../../../../sound/voice/system_rip/systemRealLive_027.mp3",
@@ -1423,7 +1093,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/surprised01.mtn",
                 "name": "あけおめメッセージ、めっちゃ来て、スマホ固まっちゃった……",
                 "text": "あけおめメッセージ、めっちゃ来て、スマホ固まっちゃった……",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_1.mp3",
@@ -1433,7 +1102,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "節分になると毎年玄関先にイワシの頭を飾るんだよね。超不気味！",
                 "text": "節分になると毎年玄関先にイワシの頭を飾るんだよね。超不気味！",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_2.mp3",
@@ -1443,7 +1111,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "見て！　友チョコめっちゃ交換するから専用の袋持ってきたんだ～",
                 "text": "見て！　友チョコめっちゃ交換するから専用の袋持ってきたんだ～",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_3.mp3",
@@ -1453,7 +1120,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "ひな人形デコろうとしたら、めっちゃ怒られた～……",
                 "text": "ひな人形デコろうとしたら、めっちゃ怒られた～……",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_4.mp3",
@@ -1463,7 +1129,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "今日ルイがお返し渡してるの見たんだ～。ちょっと意外かも！",
                 "text": "今日ルイがお返し渡してるの見たんだ～。ちょっと意外かも！",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_5.mp3",
@@ -1473,7 +1138,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "SNS引退しまーす！　……って言ったらマジ大騒ぎになった",
                 "text": "SNS引退しまーす！　……って言ったらマジ大騒ぎになった",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_6.mp3",
@@ -1483,7 +1147,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "あたしの仮装におばあさまが驚いちゃってさ、めっちゃ怒られた〜",
                 "text": "あたしの仮装におばあさまが驚いちゃってさ、めっちゃ怒られた〜",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_7.mp3",
@@ -1493,7 +1156,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "クリスマスのプレゼント交換、100人でやったら超面白そう！",
                 "text": "クリスマスのプレゼント交換、100人でやったら超面白そう！",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_8.mp3",
@@ -1503,7 +1165,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "今年がもう終わりとか早すぎ！　マジ秒だったんだけど！",
                 "text": "今年がもう終わりとか早すぎ！　マジ秒だったんだけど！",
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_027_9.mp3",
@@ -1513,7 +1174,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "あたしのギター、ちょっと珍しい形じゃん？　気に入ってるんだー",
                 "text": "あたしのギター、ちょっと珍しい形じゃん？　気に入ってるんだー",
                 "sound": "../../../../sound/voice/system_rip/systemStory_027_1.mp3",
@@ -1523,7 +1183,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/nf02.mtn",
                 "name": "あたしらの練習場所は、ななみの家のアトリエなんだよね",
                 "text": "あたしらの練習場所は、ななみの家のアトリエなんだよね",
                 "sound": "../../../../sound/voice/system_rip/systemStory_027_2.mp3",
@@ -1533,7 +1192,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "あ、今服のデザイン思いついた！　宇宙レベルにヤバいやつ！",
                 "text": "あ、今服のデザイン思いついた！　宇宙レベルにヤバいやつ！",
                 "sound": "../../../../sound/voice/system_rip/systemStory_027_3.mp3",
@@ -1543,7 +1201,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "準備おっけー！　いつでも始められるよ！",
                 "text": "準備おっけー！　いつでも始められるよ！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_027_1.mp3",
@@ -1553,7 +1210,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "準備おっけー！　いつでも……あれ？　あたしのピックどこ！？",
                 "text": "準備おっけー！　いつでも……あれ？　あたしのピックどこ！？",
                 "sound": "../../../../sound/voice/system_rip/systemBand_027_2.mp3",
@@ -1563,7 +1219,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/kime01.mtn",
                 "name": "ライブでも練習でも、やるならマジでやんないとね！",
                 "text": "ライブでも練習でも、やるならマジでやんないとね！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_027_3.mp3",
@@ -1575,7 +1230,6 @@
         ],
         "start": [
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "今日も１日楽しくいこー！",
                 "text": "今日も１日楽しくいこー！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_027_1.mp3",
@@ -1585,7 +1239,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "準備オッケー？　それじゃ練習、始めよー！",
                 "text": "準備オッケー？　それじゃ練習、始めよー！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_027_2.mp3",
@@ -1595,7 +1248,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "今日もテンション上げてこ～！",
                 "text": "今日もテンション上げてこ～！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_027_3.mp3",
@@ -1605,7 +1257,6 @@
                 "Language": "ja"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "今日も１日楽しくいこー！",
                 "text": "今日も１日楽しくいこー！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_027_1.mp3",
@@ -1615,7 +1266,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "準備オッケー？　それじゃ練習、始めよー！",
                 "text": "準備オッケー？　それじゃ練習、始めよー！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_027_2.mp3",
@@ -1625,7 +1275,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "今日もテンション上げてこ～！",
                 "text": "今日もテンション上げてこ～！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_027_3.mp3",
@@ -1635,7 +1284,6 @@
                 "Language": "zhs"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "今日も１日楽しくいこー！",
                 "text": "今天也要嗨整天～！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_027_1.mp3",
@@ -1645,7 +1293,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "準備オッケー？　それじゃ練習、始めよー！",
                 "text": "準備好了嗎？那就開始練習囉～！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_027_2.mp3",
@@ -1655,7 +1302,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "今日もテンション上げてこ～！",
                 "text": "今天也要嗨翻天～！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_027_3.mp3",
@@ -1665,7 +1311,6 @@
                 "Language": "zht"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "今日も１日楽しくいこー！",
                 "text": "今日も１日楽しくいこー！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_027_1.mp3",
@@ -1675,7 +1320,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "準備オッケー？　それじゃ練習、始めよー！",
                 "text": "準備オッケー？　それじゃ練習、始めよー！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_027_2.mp3",
@@ -1685,7 +1329,6 @@
                 "Language": "en"
             },
             {
-                "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "今日もテンション上げてこ～！",
                 "text": "今日もテンション上げてこ～！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_027_3.mp3",
