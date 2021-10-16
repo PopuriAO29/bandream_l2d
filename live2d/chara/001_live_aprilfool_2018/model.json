@@ -1,0 +1,386 @@
+{
+  "name": "001_live_aprilfool_2018",
+  "model": "live2d/kasumi_2018af_live_r_2018.moc",
+  "textures": [
+    "live2d/texture_00.png"
+  ],
+  "hit_areas": [
+    {
+      "name": "head",
+      "id": "D_PSD.93"
+    },
+    {
+      "name": "hand",
+      "id": "D_PSD1.22"
+    },
+    {
+      "name": "body",
+      "id": "D_PSD.48"
+    }
+  ],
+  "motions": {
+    "idle": [
+      {
+        "name": "idle01",
+        "file": "live2d/001_general_idle01.mtn",
+        "expression": "default",
+        "priority": 2,
+        "weight": 65
+      },
+      {
+        "name": "angry01",
+        "file": "live2d/001_general_angry01.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "bye01",
+        "file": "live2d/001_general_bye01.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "cry01",
+        "file": "live2d/001_general_cry01.mtn",
+        "priority": 2,
+        "weight": 2
+      },
+      {
+        "name": "cry02",
+        "file": "live2d/001_general_cry02.mtn",
+        "priority": 2,
+        "weight": 2
+      },
+      {
+        "name": "cry03",
+        "file": "live2d/001_general_cry03.mtn",
+        "priority": 2,
+        "weight": 2
+      },
+      {
+        "name": "eeto01",
+        "file": "live2d/001_general_eeto01.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "gattsu01",
+        "file": "live2d/001_general_gattsu01.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "hukumi01",
+        "file": "live2d/001_general_hukumi01.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "jaan01",
+        "file": "live2d/001_general_jaan01.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "kime01",
+        "file": "live2d/001_general_kime01.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "nf01",
+        "file": "live2d/001_general_nf01.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "nf02",
+        "file": "live2d/001_general_nf02.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "nf03",
+        "file": "live2d/001_general_nf03.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "nf04",
+        "file": "live2d/001_general_nf04.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "nf05",
+        "file": "live2d/001_general_nf05.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "left01",
+        "file": "live2d/001_general_nf_left01.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "right01",
+        "file": "live2d/001_general_nf_right01.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "niyaniya01",
+        "file": "live2d/001_general_niyaniya01.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "oowarai01",
+        "file": "live2d/001_general_oowarai01.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "sad01",
+        "file": "live2d/001_general_sad01.mtn",
+        "priority": 2,
+        "weight": 1
+      },
+      {
+        "name": "sad02",
+        "file": "live2d/001_general_sad02.mtn",
+        "priority": 2,
+        "weight": 2
+      },
+      {
+        "name": "sing01",
+        "file": "live2d/001_general_sing01.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "smile01",
+        "file": "live2d/001_general_smile01.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "smile02",
+        "file": "live2d/001_general_smile02.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "smile03",
+        "file": "live2d/001_general_smile03.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "smile04",
+        "file": "live2d/001_general_smile04.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "surprised01",
+        "file": "live2d/001_general_surprised01.mtn",
+        "priority": 2,
+        "weight": 3
+      },
+      {
+        "name": "wink01",
+        "file": "live2d/001_general_wink01.mtn",
+        "priority": 2,
+        "weight": 3
+      }
+    ],
+    "tap_body": [
+      {
+        "name": "jaan01",
+        "file": "live2d/001_general_jaan01.mtn",
+        "sound": "live2d/systemLoginBonus_001_1.mp3",
+        "priority": 9,
+        "weight": 1
+      },
+      {
+        "name": "gattsu01",
+        "file": "live2d/001_general_gattsu01.mtn",
+        "sound": "live2d/systemLoginBonus_001_3.mp3",
+        "priority": 9,
+        "weight": 1
+      },
+      {
+        "name": "kime01",
+        "file": "live2d/001_general_kime01.mtn",
+        "sound": "live2d/systemBand_001_3.mp3",
+        "priority": 9,
+        "next_mtn": "idle:idle01",
+        "weight": 1
+      },
+      {
+        "name": "smile04",
+        "file": "live2d/001_general_smile04.mtn",
+        "sound": "live2d/memorial003-052.mp3",
+        "priority": 9,
+        "weight": 1
+      },
+      {
+        "name": "serious01",
+        "file": "live2d/001_general_serious01.mtn",
+        "sound": "live2d/episode001-011.mp3",
+        "priority": 9,
+        "next_mtn": "idle:idle01",
+        "weight": 1
+      }
+    ],
+    "tap_head": [
+      {
+        "name": "nf03",
+        "file": "live2d/001_general_nf03.mtn",
+        "sound": "live2d/systemCommon_001_4.mp3",
+        "priority": 9,
+        "weight": 1
+      },
+      {
+        "name": "sing01",
+        "file": "live2d/001_general_sing01.mtn",
+        "sound": "live2d/memorial001-001.mp3",
+        "priority": 9,
+        "weight": 1
+      },
+      {
+        "name": "niyaniya01",
+        "file": "live2d/001_general_niyaniya01.mtn",
+        "sound": "live2d/episode003-037.mp3",
+        "priority": 9,
+        "weight": 1
+      }
+    ],
+    "tap_hand": [
+      {
+        "name": "shame01",
+        "file": "live2d/001_general_shame01.mtn",
+        "sound": "live2d/systemCommon_001_5.mp3",
+        "expression": "shame01",
+        "priority": 9,
+        "weight": 1
+      },
+      {
+        "name": "angry01",
+        "file": "live2d/001_general_angry01.mtn",
+        "sound": "live2d/systemCommon_001_10.mp3",
+        "priority": 9,
+        "weight": 1
+      },
+      {
+        "name": "smile02",
+        "file": "live2d/001_general_smile02.mtn",
+        "sound": "live2d/systemCommon_001_8.mp3",
+        "priority": 9,
+        "weight": 1
+      }
+    ]
+  },
+  "expressions": [
+    {
+      "name": "angry01",
+      "file": "live2d/001_general_angry01.exp.json"
+    },
+    {
+      "name": "cry01",
+      "file": "live2d/001_general_cry01.exp.json"
+    },
+    {
+      "name": "default",
+      "file": "live2d/001_general_default.exp.json"
+    },
+    {
+      "name": "f01",
+      "file": "live2d/001_general_f01.exp.json"
+    },
+    {
+      "name": "f02",
+      "file": "live2d/001_general_f02.exp.json"
+    },
+    {
+      "name": "f03",
+      "file": "live2d/001_general_f03.exp.json"
+    },
+    {
+      "name": "f04",
+      "file": "live2d/001_general_f04.exp.json"
+    },
+    {
+      "name": "f05",
+      "file": "live2d/001_general_f05.exp.json"
+    },
+    {
+      "name": "f06",
+      "file": "live2d/001_general_f06.exp.json"
+    },
+    {
+      "name": "f07",
+      "file": "live2d/001_general_f07.exp.json"
+    },
+    {
+      "name": "f08",
+      "file": "live2d/001_general_f08.exp.json"
+    },
+    {
+      "name": "f09",
+      "file": "live2d/001_general_f09.exp.json"
+    },
+    {
+      "name": "f10",
+      "file": "live2d/001_general_f10.exp.json"
+    },
+    {
+      "name": "f11",
+      "file": "live2d/001_general_f11.exp.json"
+    },
+    {
+      "name": "f12",
+      "file": "live2d/001_general_f12.exp.json"
+    },
+    {
+      "name": "f13",
+      "file": "live2d/001_general_f13.exp.json"
+    },
+    {
+      "name": "f14",
+      "file": "live2d/001_general_f14.exp.json"
+    },
+    {
+      "name": "f15",
+      "file": "live2d/001_general_f15.exp.json"
+    },
+    {
+      "name": "f16",
+      "file": "live2d/001_general_f16.exp.json"
+    },
+    {
+      "name": "f17",
+      "file": "live2d/001_general_f17.exp.json"
+    },
+    {
+      "name": "f18",
+      "file": "live2d/001_general_f18.exp.json"
+    },
+    {
+      "name": "sad01",
+      "file": "live2d/001_general_sad01.exp.json"
+    },
+    {
+      "name": "shame01",
+      "file": "live2d/001_general_shame01.exp.json"
+    },
+    {
+      "name": "smile01",
+      "file": "live2d/001_general_smile01.exp.json"
+    }
+  ],
+  "physics": "live2d/kasumi_2018af_live_r_2018.physics",
+  "lip_sync": "true"
+}
